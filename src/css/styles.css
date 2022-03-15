@@ -1,1 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "soleil", Arial, sans-serif;
+}
 
+img {
+	max-width: 100%;
+	object-fit: cover;
+}
+
+header {
+	padding: 1rem;
+}
+
+.logo {
+	width: 150px;
+}
+
+/* Cursor markup */
+.cursor {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background: red;
+	transform: translate(-50%, -50%);
+	transition: 0.5s ease-out;
+}
