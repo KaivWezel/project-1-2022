@@ -1,40 +1,20 @@
 // const url = "https://zoeken.oba.nl/api/v1/";
+import getData from "./modules/fetch.js";
 
 console.log("hello");
 
-const cursor = document.querySelector(".cursor");
-const followerPos = { x: 0, y: 0 };
-const cursorPos = { x: 0, y: 0 };
-
-const getMouse = (e) => {
-	cursorPos.x = e.clientX;
-	cursorPos.y = e.clientY;
+const logger = async () => {
+	const data = await getData();
+	console.log("data", data);
 };
 
-window.addEventListener("mousemove", (e) => {
-	getMouse(e);
-});
+logger();
 
-const followCursor = () => {
-	// find distanceX, distance Y
-	const distX = cursorPos.x - followerPos.x;
-	const distY = cursorPos.y - followerPos.y;
-	// Easing motion
-	followerPos.x += distX / 2;
-	followerPos.y += distY / 4;
-
-	cursor.style.left = `${followerPos.x}px`;
-	cursor.style.top = `${followerPos.y}px`;
-};
-
-setInterval(followCursor, 50);
-
-const url =
-	"https://zoeken.oba.nl/api/v1/search/?q=%22ondernemen%22&refine=true&authorization=16c19e6083308c984c452600134989ba&sort=act_dt_asc&output=json"; //&branch=OBA%20geuzenveld'
-fetch(url, {
-	mode: "no-cors",
-})
-	.then((res) => res.json())
-	.then((data) => {
-		console.log(data);
-	});
+// const endpoint =
+// 	"http://obaliquid.staging.aquabrowser.nl/onderwijs/api/v1/search/?q=eigen%20onderneming+NOT+lom.lifecycle.contribute.publisher%3Dwikipedia&authorization=0076bc3bc11d080e07a303360178002a";
+const endpoint =
+	"https://zoeken.oba.nl/api/v1/search/?q=ondernemen&authorization=0076bc3bc11d080e07a303360178002a";
+fetch(endpoint, { mode: "no-cors" })
+	.then((res) => res.text())
+	.then((data) => console.log(data))
+	.catch((err) => console.log(err));
