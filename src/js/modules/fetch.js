@@ -4,8 +4,8 @@ const config = {
 	mode: "no-cors",
 };
 
-export default async () => {
+export default async function () {
 	const response = await fetch(endpoint);
 	const data = await response.json();
 	return data;
-};
+}
