@@ -1,6 +1,7 @@
 export const createCard = (data) => {
-	console.log(data);
 	// Create elements in document
+	const link = document.createElement("a");
+	link.href = data.coverimages[1];
 	const card = document.createElement("article");
 	card.classList.add("bookCard");
 	const hero = document.createElement("img");
@@ -12,5 +13,6 @@ export const createCard = (data) => {
 	desc.innerText = data.description[1];
 	// Append elements to card
 	card.append(hero, title, desc);
-	return card;
+	link.append(card);
+	return link;
 };
