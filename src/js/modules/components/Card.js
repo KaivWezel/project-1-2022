@@ -1,4 +1,4 @@
-export const createCard = (data) => {
+export const bookCard = (data) => {
 	// Create elements in document
 	console.log(data);
 	const link = document.createElement("a");
@@ -18,4 +18,13 @@ export const createCard = (data) => {
 	card.append(hero, title, desc);
 	link.append(card);
 	return link;
+};
+
+export const resultCard = (data) => {
+	console.log(data);
+	const card = document.createElement("article");
+	const title = document.createElement("h4");
+	const desc = document.createElement("p");
+	const link = document.createElement("a");
+	// Assign content to elements
 };
