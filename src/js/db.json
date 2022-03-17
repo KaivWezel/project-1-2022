@@ -1,5 +1,5 @@
 {
-	"results": [
+	"books": [
 		{
 			"id": "|oba-catalogus|1244722",
 			"frabl": {
@@ -1315,6 +1315,432 @@
 				]
 			},
 			"siso": ["606.15"]
+		}
+	],
+	"results": [
+		{
+			"id": "|universal/sru_edurep|Leraar24_Publicaties:leraar24:publication:2623546",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.leraar24.nl/2623546/21e-eeuwse-vaardigheden-stimuleren-door-het-opzetten-van-een-eigen-onderneming/",
+			"titles": [
+				"21e-eeuwse vaardigheden stimuleren door het opzetten van een eigen onderneming"
+			],
+			"formats": [],
+			"authors": ["De redactie"],
+			"authorsDetailed": [
+				{
+					"full": "De redactie"
+				}
+			],
+			"publisher": ["Leraar24, 2021-01-19"],
+			"languages": ["nl"],
+			"summaries": [
+				"Creatief denken, problemen oplossen, plannen en communiceren. Je hebt het allemaal nodig als je een eigen onderneming gaat starten. Laat je leerlingen hiermee experimenteren."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:107624",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/107624/",
+			"titles": [
+				"Impact van e-commerce op de eigen onderneming inschatten : Oefening"
+			],
+			"formats": [],
+			"publisher": ["KlasCement, 2020-08-19"],
+			"languages": ["nl"],
+			"summaries": [
+				"Oefening zelfreflectie over e-commerce binnen je eigen zaak. Met de infofiche geef je eerst les of je laat die zelfstandig doornemen. Daarna kan er inspiratie uit geput worden voor de oefening.\nOplossing voorzien achteraan het document.",
+				"Exercise self-reflection on e-commerce within your own business. With the information sheet you first give lessons or you let them go through independently. After that, inspiration can be drawn from it for the exercise.  Solution provided at the end of the document."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:79797",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/79797/",
+			"titles": ["Duurzaam ondernemen : Actiefiche"],
+			"formats": [],
+			"publisher": ["KlasCement, 2018-02-12"],
+			"languages": ["nl"],
+			"summaries": [
+				"Leerlingen kiezen of maken zelf hun eigen producten of diensten en beheren vervolgens een eigen mini-onderneming . Met deze instructiefiche kunnen ze dit op een milieubewuste en duurzame manier realiseren.",
+				"Students choose or create their own products or services themselves and then manage their own mini-company. With this instruction sheet they can realize this in an environmentally conscious and sustainable way."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/493858",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/338044",
+			"titles": ["De waarde van waarden"],
+			"formats": [],
+			"authors": ["Oosterhoff, W.", "Stokkers, G.J.", "Smit, A.B."],
+			"authorsDetailed": [
+				{
+					"full": "Oosterhoff, W."
+				},
+				{
+					"full": "Stokkers, G.J."
+				},
+				{
+					"full": "Smit, A.B."
+				}
+			],
+			"publisher": ["WUR_staff repository, 2015"],
+			"languages": ["nl"],
+			"summaries": [
+				"Agrarische ondernemers schakelen voortdurend tussen de drie O’s: Ondernemer, Onderneming en Omgeving. De laatste jaren komt er steeds meer aandacht voor de relatie tussen onderneming en omgeving. We noemen dat omgevingsgericht ondernemen. Bij het Kenniscentrum Agrofood en Ondernemen in Dronten ligt de focus vooral op de ondernemer. Persoonlijke ontwikkeling van ondernemers in opleiding staat hoog in het vaandel. Onderdeel van die persoonlijke ontwikkeling is de bewustwording van de eigen waarden."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KennisLink:oai:kennislink.nl/19051",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://www.kennislink.nl/publicaties/de-boot-kleine-sociologie-van-het-heen-en-weer",
+			"titles": ["De boot: kleine sociologie van het heen en weer"],
+			"formats": [],
+			"authors": ["Rob van Ginkel"],
+			"authorsDetailed": [
+				{
+					"full": "Rob van Ginkel"
+				}
+			],
+			"publisher": ["Kennislink"],
+			"languages": ["nl"],
+			"summaries": [
+				"In 2007 vierde Texels Eigen Stoomboot Onderneming haar eeuwfeest. De onderneming heeft gedurende haar bestaan al menig vaartuig versleten. Toch rept de eilandbevolking onveranderlijk van de boot. Dit geldt voor de in 2005 gedoopte Dokter Wagemaker zo goed als voor de oudere Schulpengat en al hun voorgangers. Noem de boot nooit een veerpont of een schip, al ga je er op Texel heen via de Pontweg en verzoekt een mechanische omroepstem je om 'op dit schip niet te roken'. Wie zich vergist ontmaskert zich als vastelander."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:27735",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/27735/",
+			"titles": ["Werken voor eigen rekening : Zoekopdracht"],
+			"formats": [],
+			"publisher": ["KlasCement, 2011-02-02"],
+			"languages": ["nl"],
+			"summaries": [
+				"Via deze beknopte zoekopdracht leren de leerlingen de opstartformaliteiten kennen om een onderneming op te richten.",
+				"This brief search through the pupils learn to know the formalities to start a venture."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/308700",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/266518",
+			"titles": ["Internationalisering van de Europese zuivelindustrie"],
+			"formats": [],
+			"authors": ["Bijman, W.J.J.", "Westers, G."],
+			"authorsDetailed": [
+				{
+					"full": "Bijman, W.J.J."
+				},
+				{
+					"full": "Westers, G."
+				}
+			],
+			"publisher": ["LEI-DLO, 1998"],
+			"languages": ["nl"],
+			"summaries": [
+				"De internationaliseringsstrategieën van de 24 grootste Europese zuivelondernemingen is bestudeerd, op basis van jaarverslagen en andere literatuur. Internationalisering is een antwoord op veranderingen in het zuivelbeleid, in de vraag van de consument, en in de structuur van de afzet. Elke onderneming volgt een eigen internationaliseringsstrategie. Om inzicht te krijgen in die strategieën is een beknopte verkenning gemaakt van de theorieën over internationalisering van Dunning, Porter, Bartlett en Ghoshal, en Ruigrok en Van Tulder. De laatsten benadrukken dat de internationaliseringsstrategie sterk wordt beïnvloed door de relaties van de onderneming met onder anderen de toeleveranciers, de afnemers en de financiers/eigenaren. Dit idee is als centrale leidraad voor deze studie genomen. Op basis van deze relaties, van het productassortiment en van de huidige stand van de internationalisering van productie en afzet hebben we de 24 ondernemingen in 7 strategische groepen ingedeeld."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/440942",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/264094",
+			"titles": [
+				"Strategisch Management Tool: Stragegieverkenning op basis van ondernemer, onderneming en omgeving"
+			],
+			"formats": [],
+			"authors": ["Lakner, D."],
+			"authorsDetailed": [
+				{
+					"full": "Lakner, D."
+				}
+			],
+			"publisher": ["LEI Wageningen UR, 2013"],
+			"languages": ["nl"],
+			"summaries": [
+				"Dit rapport geeft de resultaten per afzonderlijk element kort weer: de ondernemer, de onderneming & de omgeving van uw bedrijf. Deze informatie geeft u de sterke en zwakke punten en de kansen en bedreigingen, zoals U die ziet. Daarna volgt de uitkomst van de berekende markt- en bedrijfsontwikkelingsstrategieën die het beste passen bij de huidige situatie. Uw eigen doel strategieën volgen hierop. Dit maakt het mogelijk om een zogenaamde GAP-analyse te tonen. Hiermee kunt u als ondernemer precies zien aan welke onderdelen van het ondernemerschap (de drie O's) er nog gewerkt moet worden om je doel strategieën te verwezenlijken. In de bijlagen kunt U een uitleg vinden van de verschillende elementen, factoren en strategieën die door de hele tool heen worden gebruikt."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:150149",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/150149/",
+			"titles": ["Soorten ondernemingsvormen: Quiz"],
+			"formats": [],
+			"publisher": ["KlasCement, 2022-03-15"],
+			"languages": ["nl"],
+			"summaries": [
+				"Je oefent met deze Kahoot! de theorie omtrent soorten ondernemingsvormen toe te passen.",
+				"You practice with this Kahoot! apply the theory of types of business forms."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/424374",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/211447",
+			"titles": ["Marketing in crisistijd, kijken in een glazen bol?"],
+			"formats": [],
+			"authors": ["Huirne, Ruud"],
+			"authorsDetailed": [
+				{
+					"full": "Huirne, Ruud"
+				}
+			],
+			"publisher": ["WUR_staff repository, 2009"],
+			"languages": ["x-none"],
+			"summaries": [
+				"Op 19 november 2009 houdt de organisatie van de Aardappeldemodag een congres over marketing ten tijde van recessie. Hierop vooruitlopend hebben managers in de afgelopen maanden van diverse bedrijven in Aardappelwereld magazine weergegeven, hoe zij marketing toepassen in hun eigen onderneming. Wat heeft onze sector hiervan tot nu toe al kunnen leren"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|edurep_delen:3dbcefe4-1a6d-453c-abcc-7a5ec8f77d3f",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://www.leren.nl/rubriek/economie_financien/ondernemen/starten",
+			"titles": ["Onderneming starten"],
+			"formats": [],
+			"publisher": ["Davindi MBO, 2012-05-16"],
+			"languages": ["nl"],
+			"summaries": [
+				"Wil je een bedrijf starten, voor jezelf beginnen, eigen baas worden? Hier vind je links naar allerlei informatie die je daarbij goed kunt gebruiken. Hoe schrijf je een ondernemingsplan? Welke rechtsvorm moet je kiezen? Waar vind je financiering?"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/400268",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/159745",
+			"titles": [
+				"Venture Lab: de motor voor regionale innovaties, Welke kansen bieden ze voor Greenport Venlo?"
+			],
+			"formats": [],
+			"authors": ["Fontein, R.J.", "Kranendonk, R.P."],
+			"authorsDetailed": [
+				{
+					"full": "Fontein, R.J."
+				},
+				{
+					"full": "Kranendonk, R.P."
+				}
+			],
+			"publisher": ["Alterra, 2010"],
+			"languages": ["nl"],
+			"summaries": [
+				"Helpdeskvraag om een quick scan uit te voeren naar het concept Venture Labs en hoe dit gebruikt kan worden om regionale innovaties op het gebied van agribusiness, logisitiek, C2C en kwaliteit leefomgeving in Greenport Venlo te bewerkstelligen. Een Venture Lab is over het algemeen een technologisch centrum dat ondersteuning biedt aan startende ondernemers, wetenschappers, PhD’s en studenten die een patent of techniek willen commercialiseren in een onderneming. Een Venture Lab is te omschrijven als een gebouw, maar het is meer dan dat. Het is tevens een onderwijsprogramma, waarin op een gestructureerde manier een onderneming opgezet kan worden. Deelnemers aan het Venture Lab programma hebben meestal een eigen idee en willen dat graag vermarkten. Het hebben van een idee is echter meestal niet noodzakelijk."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:33724",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/33724/",
+			"titles": ["Stakeholders, financiers : Toets"],
+			"formats": [],
+			"publisher": ["KlasCement, 2012-01-05"],
+			"languages": ["nl"],
+			"summaries": [
+				"Overhoring over Hoofdstuk 4: Stakeholders van de onderneming: eigen vermogen en vreemd vermogen, aandeelhouders, banken, financiering, bij het handboek De handel en wij 5.1 van uitgeverij Plantyn. Via 'getipte bijdragen' in de rechterkolom vind je ook een kruiswoordraadsel over dit hoofdstuk.",
+				"Quiz on Chapter 4: Stakeholders of the company: equity and debt capital, shareholders, banks, financing, in the textbook and we trade 5.1 of publishing Plantyn. Through \"tipped contributions\" in the right column you will also find a crossword puzzle on this chapter."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:32604",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/32604/",
+			"titles": ["Succesvol ondernemer : Les over de marketingmix"],
+			"formats": [],
+			"publisher": ["KlasCement, 2011-10-04"],
+			"languages": ["nl"],
+			"summaries": [
+				"Dit materiaal werd ontwikkeld door het Steunpunt GOK en CTO.\nDe leerlingen brainstormen over het oprichten van een eigen onderneming en over hoe ze er een succes van kunnen maken. Vervolgens lezen ze enkele ondernemersverhalen en proberen er de ingrediënten voor succesvol ondernemerschap uit te halen. In een volgende fase maken de leerlingen kennis met de vier p’s en gaan ze na hoe de ondernemers de elementen van de marketingmix gebruikt hebben. Met deze nieuwe informatie herbekijken de leerlingen hun eerste plannen voor het oprichten van een onderneming.",
+				"This material was developed by the GOK Support Center and CTO . The students brainstorm about starting their own business and about how to make it a success. Then they read some entrepreneurial stories and try to extract the ingredients for successful entrepreneurship. In a next phase, the students become acquainted with the four p&#39;s and examine how the entrepreneurs have used the elements of the marketing mix. With this new information, the students rethink their initial plans for setting up a business."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:24738",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/24738/",
+			"titles": ["Kosten en opbrengsten"],
+			"formats": [],
+			"publisher": ["KlasCement, 2010-09-22"],
+			"languages": ["nl"],
+			"summaries": [
+				"Deze les behandelt de kosten en opbrengsten die een onderneming maakt en de gevolgen daarvan in de boekhouding.\nDe bijbehorende oefeningen en de presentatie vind je ook terug in deze bijdrage.",
+				"Accounting,\nSee also accompanying ppt: Costs and benefits"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:107686",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/107686/",
+			"titles": ["Marketingplan als onderdeel van een ondernemingsplan"],
+			"formats": [],
+			"publisher": ["KlasCement, 2020-09-04"],
+			"languages": ["nl"],
+			"summaries": [
+				"Analyseren van klanten, leveranciers, concurrenten, vestigingsplaats, producten/diensten en promotie... Een marketingplan opstellen als onderdeel van het ondernemingsplan.",
+				"Analyzing customers, suppliers, competitors, location, products / services and promotion ... Create a marketing plan as part of the business plan."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:35353",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/35353/",
+			"titles": ["Neutraal Syndicaat voor Zelfstandigen"],
+			"formats": [],
+			"publisher": ["KlasCement, 2012-05-03"],
+			"languages": ["nl"],
+			"summaries": [
+				"Deze site bevat nieuwsartikels omtrent wetten voor zelfstandigen. Er is ook een rubriek Starters, waarin je terug kunt vinden wat je moet doen als je je eigen zaak wil starten.",
+				"This site contains news articles about self-employment laws. There is also a Starters section, where you can find out what you need to do if you want to start your own business."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:95245",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/95245/",
+			"titles": ["Ondernemingsplan opstellen : Spreadsheet"],
+			"formats": [],
+			"publisher": ["KlasCement, 2019-09-09"],
+			"languages": ["nl"],
+			"summaries": [
+				"Sjabloon in Excel om een ondernemingsplan op te stellen voor een eigen restaurant. \nBedragen worden automatisch gekopieerd en het wachtwoord om de cel te ontgrendelen is 'pv'.",
+				"Template in Excel to prepare a business plan for your own restaurant.  Amounts are automatically copied and the password to unlock the cell is &#39;pv&#39;."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|aeres:oai:www.greeni.nl:VBS:2:146572",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.greeni.nl/iguana/CMS.MetaDataEditDownload.cls?file=2:146572:1",
+			"titles": [
+				"Strategievorming van de Brabantse melkveehouder onder beleidsmatige- en marktontwikkelingen"
+			],
+			"formats": [],
+			"authors": ["Kools, H.C.M."],
+			"authorsDetailed": [
+				{
+					"full": "Kools, H.C.M."
+				}
+			],
+			"publisher": ["Aeres Hogeschool, 2019"],
+			"languages": ["nl"],
+			"summaries": [
+				"Onderzoek naar strategiekeuzes van de Brabantse melkveehouder. Strategische keuzes worden gemaakt op basis van het totale toekomstperspectief van de ondernemer en de onderneming. Hierin spelen verschillende beleidsontwikkelingen (de fosfaatwetgeving, de Verordening Natuurbescherming, het verbod op asbestdaken, de 65%-eiwitbehoefte van eigen land) als marktontwikkelingen (de afzetlijnen, de beschikbaarheid van grond, het verloop van de rente, en de mestafzet) een rol."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|edurep_delen:7998200a-cecd-425b-9696-36addbdd5b49",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://www.economiehulp.nl/eenmanszaak",
+			"titles": ["Eenmanszaak"],
+			"formats": [],
+			"authors": ["Maurice Straatmans"],
+			"authorsDetailed": [
+				{
+					"full": "Maurice Straatmans"
+				}
+			],
+			"publisher": ["wikiwijs_repository"],
+			"languages": ["nl"],
+			"summaries": ["Website met informatie en uitleg over de eenmanszaak."]
 		}
 	]
 }
