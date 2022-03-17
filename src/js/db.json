@@ -1170,7 +1170,7 @@
 			"siso": ["354.7"]
 		}
 	],
-	"results": [
+	"onderneming": [
 		{
 			"id": "|universal/sru_edurep|Leraar24_Publicaties:leraar24:publication:2623546",
 			"frabl": {
@@ -1594,6 +1594,588 @@
 			"publisher": ["wikiwijs_repository"],
 			"languages": ["nl"],
 			"summaries": ["Website met informatie en uitleg over de eenmanszaak."]
+		}
+	],
+	"belasting": [
+		{
+			"id": "|universal/sru_edurep|Schooltv:/NTR/POMS/WO_NTR_16372526",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://schooltv.nl/video/wat-is-belasting-geld-voor-de-staat/",
+			"titles": ["Wat is belasting?:Geld voor de staat"],
+			"formats": [],
+			"publisher": ["Schooltv"],
+			"languages": ["nl"],
+			"summaries": [
+				"Huh? Belasting? Wat is dat? Stel, je hebt een goedlopend bedrijf en daarmee verdien je prima. Maar dan blijkt dat je niet al het geld zelf mag houden, want je moet belasting betalen. Belasting is het geld wat volwassenen en bedrijven moeten betalen aan hun land. Als je geld verdient met je werk, dan moet je belasting betalen. Maar ook als je iets koopt in de winkel. Hoeveel dat is, staat op de kassabon. Al het belastinggeld gaat in een potje en daar worden dingen van betaald die het land nodig heeft. Dankzij belastinggeld kan iedereen naar school en naar het ziekenhuis, is er politie en wordt het vuilnis opgehaald. En als je niet kan werken kom je niet om van de honger. Dus iedereen profiteert van belastingen. In Nederland betalen de rijken meer belasting dan mensen met minder geld. Bijna iedereen vindt dat ie te veel betaalt. Je kan belasting ontduiken. Dan werk je stiekem of je verhuist naar een land met lagere belastingen. Zo hou je je geld lekker voor jezelf. Klinkt slim, maar als niemand belasting betaalde, dan was dit er ook niet geweest. En hoe moet je dan de spullen vanuit je fabriek naar de winkels brengen?"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|video_natuur:oai:collecties.edurep.nl:oaiprovider/video/f64ed7c9-c34a-490e-b172-af527dad41e8",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://youtu.be/tFnQX6xekWM",
+			"titles": [
+				"Vroege Vogels - Column Dolf Jansen &#39;We&#39;ve been Schiphold&#39;"
+			],
+			"formats": [],
+			"authors": ["Vroege Vogels"],
+			"authorsDetailed": [
+				{
+					"full": "Vroege Vogels"
+				}
+			],
+			"publisher": ["YouTube, 2017-11-05"],
+			"languages": ["nl"],
+			"summaries": [
+				"Dolf Jansen schrijft regelmatig columns voor Vroege Vogels: “En dan Schiphol. Een bedrijf dat allerlei belasting niet hoeft te betalen, want ze zijn de ..."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/398013",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/115922",
+			"titles": [
+				"Blauwdruk van bedrijfssystemen voor biologische varkens met minder fysieke belasting"
+			],
+			"formats": [],
+			"authors": ["Vermeer, H.M.", "Groenestein, C.M.", "Roelofs, P.F.M.M."],
+			"authorsDetailed": [
+				{
+					"full": "Vermeer, H.M."
+				},
+				{
+					"full": "Groenestein, C.M."
+				},
+				{
+					"full": "Roelofs, P.F.M.M."
+				}
+			],
+			"publisher": ["Wageningen UR, Animal Sciences Group, 2007"],
+			"languages": ["nl"],
+			"summaries": [
+				"De biologische varkenshouderij is een arbeidsintensievere sector dan de gangbare varkenshouderij. Er moet niet alleen meer werk worden verzet, maar er wordt ook relatief veel meer gewerkt met zware goederen als strooisel, vaste mest en ruwvoer. Mede als gevolg daarvan is de gemiddelde grootte van een gezinsbedrijf circa de helft van die van een gangbaar varkensbedrijf. Het verschil in arbeid heeft zowel gevolgen voor de kostprijs als voor de fysieke belasting van de biologische varkenshouder. Om de fysieke belasting te verlichten is samen met vier biologische varkenshouders het ideale biologische gezinsbedrijf geschetst. Daartoe zijn alle vier de bedrijven van de betrokken varkenshouders bezocht en de positieve en negatieve punten met betrekking tot arbeid vastgelegd. Deze punten zijn in een workshop geïntegreerd om te komen tot een blauwdruk van een ideaal bedrijf en ideale hokken uit het oogpunt van arbeid."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|edurep_delen:cfcd7975-ee5a-1fe3-b0ec-a8366ebe404b",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://youtu.be/DG-IM2LgCko",
+			"titles": [
+				"Berekenen belasting box 2 en 3 (aanmerkelijk belang en vermogensrendementsheffing) - (economie)"
+			],
+			"formats": [],
+			"authors": ["Christiaan van Os"],
+			"authorsDetailed": [
+				{
+					"full": "Christiaan van Os"
+				}
+			],
+			"publisher": ["OsAcademie, 2013-11-24"],
+			"languages": ["nl"],
+			"summaries": [
+				"https://www.osacademie.nl - economie uitleg\nNaast de inkomstenbelasting uit box 1, geldt voor een deel van de Nederlanders dat zij ook nog belasting betalen in box 2 en 3. Dit is vooral het geval wanneer mensen een aanmerkelijk belang bezitten (minstens 5% van de aandelen van een bedrijf) of wanneer ze over een aanzienlijk vermogen beschikken (spaargeld of een tweede huis bijvoorbeeld). In deze lesvideo behandelen en berekenen we de belastingheffing in box 2 en 3. We borduren daarbij voort op het vorige filmpje over de inkomstenbelasting in box 1. Je krijgt onder andere antwoord op de volgende vragen:\n\n- Wat is een aanmerkelijk belang?\n- Wat is vermogensrendementsheffing?\n- Hoe bereken ik de belasting in box 2 en wat is aanmerkelijk belang?\n- Hoe bereken ik de vermogensrendementsheffing (belasting box 3)?\nHoe bereken ik het nettoloon en wat is het verschil met het brutoloon?\n\n--\nKlik hier om te abonneren! http://www.youtube.com/osacademie?sub_confirmation=1\n\nVolg ons op instagram! http://www.instagram.com/osacademie\nLike ons op Facebook! http://www.facebook.com/osacademie\n\n-\nAfspeellijsten met economie uitleg:\n\nConcept Goede tijden, slechte tijden (examen domein I)\nhttps://www.youtube.com/watch?v=vxZ-JEPulu4&list=PL81MTAim_IToSPFr5EyarZ-jOduDalG9E\n\nConcept welvaart & groei (examen domein H)\nhttps://www.youtube.com/watch?v=qlm4ZhctFzQ&list=PL81MTAim_ITo28TAGgzDNJBrg-L3YWKGY\n\nConcept risico & informatie (examen domein G)\nhttps://www.youtube.com/watch?v=qiDhLbXoh8g&list=PL81MTAim_ITrb5AnoVfFw-60F2TPynLem\n\nConcept samenwerken & onderhandelen (examen domein F)\nhttps://www.youtube.com/watch?v=Cj8HDSjFjwM&list=PL81MTAim_ITqeK5DmfcyX5n1E5doe7XXp\n\nConcept ruilen over de tijd (examen domein E)\nhttps://www.youtube.com/watch?v=UJA41LTjuoI&list=PL81MTAim_ITqnoW_LpwRbi5u6U3M7YGfQ\n\nConcept markten (examen domein D)\nhttps://www.youtube.com/watch?v=ZNVMqvQJy0Y&list=PL81MTAim_IToCG7MKro4kQgY01JReQaW5\n\nConcept schaarste & ruil (examen domein B + C)\nhttps://www.youtube.com/watch?v=nR7M0TTl5LI&list=PL81MTAim_ITryTtrrKcmnsBRiDeWN08f8\n-\n\nDe OsAcademie geeft economie en bedrijfseconomie uitleg in korte filmpjes van maximaal 15 minuten. Deze bedrijfseconomie lessen zijn een uitstekende manier om je voor te bereiden op proefwerken en je eindexamen. Denk er wel aan om de theorie ook toe te passen met behulp van verwerkingsopgaven!\n\nDe filmpjes zijn gericht op het examenprogramma van HAVO en VWO en worden gemaakt door Christiaan van Os, docent economie en bedrijfseconomie.\nOp onze website vind je alle filmpjes in duidelijke volgorde terug en gerangschikt per onderwerp. Dit geeft jou meer overzicht. De ideale manier om wat extra bijles te krijgen. Zie https://www.osacademie.nl"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/584735",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/550363",
+			"titles": [
+				"Multifunctionele landbouw en de fiscus : 'Dat regelt mijn boekhouder'"
+			],
+			"formats": [],
+			"authors": ["Vijn, M.P.", "Boxtel, Maria, van"],
+			"authorsDetailed": [
+				{
+					"full": "Vijn, M.P."
+				},
+				{
+					"full": "Boxtel, Maria, van"
+				}
+			],
+			"publisher": ["Wageningen University & Research, 2021"],
+			"languages": ["nl"],
+			"summaries": [
+				"Deze brochure geeft je informatie en tips over de fiscale aspecten van de multifunctionele landbouw. De informatie is niet specifiek gericht op de belasting in de primaire landbouw, maar gaat over de verbreding in zorg, recreatie, kinderopvang, educatie en verkoop van producten en natuurbeheer. De brochure biedt je een overzicht van de fiscale aspecten, die je kunt gebruiken bij het gesprek met jouw boekhouder of accountant. Voor meer informatie vind je per onderwerp steeds een doorverwijzing. In de brochure vind je geen fiscaal advies over wat het meest geschikt is voor jouw eigen bedrijf. Voor elk bedrijf is namelijk maatwerk nodig."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:79901",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/79901/",
+			"titles": ["Vennootschapsbelastingen : Audiovisueel materiaal"],
+			"formats": [],
+			"authors": ["VIAA"],
+			"authorsDetailed": [
+				{
+					"full": "VIAA"
+				}
+			],
+			"publisher": ["KlasCement, 2020-09-24"],
+			"languages": ["nl"],
+			"summaries": [
+				"Link naar de lesklare collectie Vennootschapsbelastingen op Het Archief voor Onderwijs. \nDe vennootschapsbelasting is de belasting op de winsten die bedrijven maken. Het tarief van deze belasting staat al enige tijd ter discussie in het kader van de taxshift.\nAan de hand van concrete voorbeelden en audiovisueel materiaal leert deze collectie je alles over deze vennootschapsbelasting, notionele interestaftrek, de Panama Papers en 'excess profit rulings'.",
+				"Link to the ready-to-read collection Company taxes on the Archive for Education .  The corporation tax is the tax on the profits that companies make. The rate of this tax has been under discussion for some time in the context of the tax shift.  Using concrete examples and audiovisual material, this collection will teach you everything about this corporate tax, notional interest deduction, the Panama Papers and &#39;excess profit rulings&#39;."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/363724",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/36110",
+			"titles": [
+				"Bemonstering reinigingswater spuitapparatuur : analyseresultaten van 5 watermonsters genomen op 5 loonbedrijven"
+			],
+			"formats": [],
+			"authors": [
+				"Zeeland, M.G., van",
+				"Kroonen-Backbier, B.",
+				"Weide, R.Y., van der"
+			],
+			"authorsDetailed": [
+				{
+					"full": "Zeeland, M.G., van"
+				},
+				{
+					"full": "Kroonen-Backbier, B."
+				},
+				{
+					"full": "Weide, R.Y., van der"
+				}
+			],
+			"publisher": ["PPO AGV, 2008"],
+			"languages": ["nl"],
+			"summaries": [
+				"Is de reiniging van spuitapparatuur een belangrijke oorzaak van de normoverschrijdende belasting van het oppervlaktewater met de werkzame stof terbutylazin? Op vier loonwerkbedrijven werd ná het spuitseizoen van herbiciden in maïs en op één bedrijf ná een aantal fungicidenbespuitingen in aardappel de spuitapparatuur gereinigd met leidingwater door middel van een hogedrukreiniger. Het reinigingswater werd bemonsterd en geanalyseerd"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/553805",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/498923",
+			"titles": [
+				"Naar betere benutting van bestaande elektriciteitsnetwerken : PPS Landbouw & Energie"
+			],
+			"formats": [],
+			"authors": ["Voort, M.P.J., van der"],
+			"authorsDetailed": [
+				{
+					"full": "Voort, M.P.J., van der"
+				}
+			],
+			"publisher": [
+				"Stichting Wageningen Research, Wageningen Plant Research, Business unit Open Teelten, 2019"
+			],
+			"languages": ["nl"],
+			"summaries": [
+				"Het doel van deze PPS Energie & Landbouw is om invulling te geven aan de rol van de landbouw in de energietransitie. Dit door het maximaliseren van de bijdrage van de landbouw op een wijze dat hernieuwbare energieproductie en consumptie een integraal rendabel onderdeel van het agrarische bedrijf wordt. De huidige infrastructuur van het elektriciteitsnet wordt voor ongeveer 18% benut. De infrastructuur is gedimensioneerd op piekvermogen op basis van gebruikersprofielen en een veiligheidsmarge. Het huidige systeem gaat altijd uit van maximale belasting maar dat betekent veelal ook maximale kosten."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/448963",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/288027",
+			"titles": [
+				"Kringlooplandbouw in Noord-Nederland : van marge naar mainstream"
+			],
+			"formats": [],
+			"authors": [
+				"Holster, H.C.",
+				"Opheusden, M., van",
+				"Gerritsen, A.L.",
+				"Kieft, H.",
+				"Kros, H.",
+				"Plomp, M.",
+				"Verhoeven, F.",
+				"Vries, W., de",
+				"Essen, E., van",
+				"Sonneveld, M.P.W.",
+				"Venekamp, A."
+			],
+			"authorsDetailed": [
+				{
+					"full": "Holster, H.C."
+				},
+				{
+					"full": "Opheusden, M., van"
+				},
+				{
+					"full": "Gerritsen, A.L."
+				},
+				{
+					"full": "Kieft, H."
+				},
+				{
+					"full": "Kros, H."
+				},
+				{
+					"full": "Plomp, M."
+				},
+				{
+					"full": "Verhoeven, F."
+				},
+				{
+					"full": "Vries, W., de"
+				},
+				{
+					"full": "Essen, E., van"
+				},
+				{
+					"full": "Sonneveld, M.P.W."
+				},
+				{
+					"full": "Venekamp, A."
+				}
+			],
+			"publisher": ["Wageningen UR, 2014"],
+			"languages": ["nl"],
+			"summaries": [
+				"Sinds 1990 wordt er in Noord-Nederland, waaronder de Noordelijke Friese Wouden en de provincie Drenthe, door melkveehouders, wetenschappers en beleidsmakers geëxperimenteerd om de kringloop van mineralen op het bedrijf zo goed mogelijk te sluiten. Steeds meer agrarisch ondernemers worden zich bewust van het belang van het sluiten van de kringloop ingegeven door aanscherping in mestwetgeving, schaarste van grondstoffen, hogere kosten van kunstmest en belasting van de omgeving. Zij zullen naar de toekomst de nieuwe kringloopboeren kunnen worden. Efficiënt gebruik van grond- en hulpstoffen is de kerngedachte"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|Schooltv:/NTR/POMS/WO_NTR_662561",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://schooltv.nl/video/marktwerking-vs-overheid-privaat-of-publiek/",
+			"titles": ["Marktwerking vs. overheid:Privaat of publiek"],
+			"formats": [],
+			"publisher": ["Schooltv"],
+			"languages": ["nl"],
+			"summaries": [
+				"De regering bepaalt in ons land wie welke taken in de collectieve sector uitvoert. Zij ziet het als haar exclusieve taak om te zorgen voor die voorzieningen waarbij het onmogelijk is om mensen die niet betalen uit te sluiten zoals dijken, defensie, wegen en rechtspraak. Dat bekostigen wij dus met zijn allen door belasting te betalen. Andere maatschappelijke taken worden vaak steeds meer uitbesteed aan concurrerende bedrijven in de markt.\nAls de markt faalt dan is er sprake van een publiek belang en dan kan het wenselijk zijn dat de overheid daar een rol gaat spelen. Ook als er sprake is van een publiek belang zou je er voor kunnen kiezen om het helemaal aan de markt over te laten. In dat geval zal je zien dat er bedrijven zullen wedijveren om wie die markt mag gaan bedienen. En vanwege die hoge kosten die je hebt met het openbaar vervoer, zal er uiteindelijk 1 bedrijf overwinnen. En die zal het openbaar vervoer dan gaan aanbieden. Maar die is dan ook vrij om de prijzen te vragen en de kwaliteit te bieden die hij wil zonder dat hij dan concurrentie voelt en dat is niet wat wij willen: een monopolie. Een ander uiterste is dat je het helemaal als overheid gaat organiseren. Die overheid wordt dan niet geprikkeld door de markt. Die voelt niet de tucht van de markt die zal het dan op een minder efficiënte manier doen dan bedrijven dat kunnen. En dan heb je nog een derde weg. Dat zit er eigenlijk een beetje tussenin. Daarbij zeg je: we kiezen ervoor om een bedrijf verantwoordelijk te maken voor de uitvoering van het openbaar vervoer, zodat we zeker weten dat het op een efficiënte manier gebeurt. En dat het ook op een manier gebeurt die het beste aansluit bij de behoefte van de reizigers. Maar wij proberen met wet-en regelgeving ervoor te zorgen dat het bedrijf niet als een monopolist kan gaan gedragen. Dat er prijzen worden gevraagd, dat er gebieden worden bediend in Nederland waarvan wij als overheid vinden dat het maatschappelijk gewenst is. "
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|aeres:oai:www.greeni.nl:VBS:2:144568",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.greeni.nl/iguana/CMS.MetaDataEditDownload.cls?file=2:144568:1",
+			"titles": [
+				"Bodemverdichting : zicht op de mogelijkheden van de bodem en ondernemer"
+			],
+			"formats": [],
+			"authors": ["Knibbe, J."],
+			"authorsDetailed": [
+				{
+					"full": "Knibbe, J."
+				}
+			],
+			"publisher": ["Aeres Hogeschool, 2018"],
+			"languages": ["nl"],
+			"summaries": [
+				"Een gezonde bodem is voor een agrarisch bedrijf één van de belangrijkste productiefactoren. Echter de vraag is op welke wijze kan de ondernemer de bodem positief beïnvloeden? Het doel van deze scriptie is aan de hand van theoretisch onderzoek gecombineerd met onderzoek in de praktijk de ondernemer zicht en inzicht te geven in de bodem. Voor een gezonde bodem spelen: organische stof, bodemchemie, bodemleven, bodemstructuur, waterhuishouding en beworteling een belangrijke rol. Deze factoren kunnen worden verstoord door de wijze van bewerking, belasting door machines of door invloed van klimaat. In het onderzoek zijn een aantal ondernemers ondervraagt middels een vragenlijst om inzicht te krijgen in de wijze van bedrijfsvoering op het gebied van bodem. Door praktisch onderzoek te doen in het veld, door middel van grondmonsters, profielkuilen, organische stof balansen en bodemconditiescores is het zicht en inzicht in de bodem vergroot."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/457493",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/115485",
+			"titles": [
+				"Tussenrapport : uitloop biologische varkens : verslag studiemiddag biologische veehouderij PO-34"
+			],
+			"formats": [],
+			"authors": ["Anonymous"],
+			"authorsDetailed": [
+				{
+					"full": "Anonymous"
+				}
+			],
+			"publisher": ["Agrotechnology & Food Innovations, 2004"],
+			"languages": ["nl"],
+			"summaries": [
+				"Bij deze tussenrapportage zijn al een aantal (voorlopige)conclusies te trekken enaanbevelingen te doen rondom de uitloop voor varkens. Uit het thema dier komt naar voren dat bij vleesvarkens de meeste spoelwormeieren in de verharde uitloop te vinden zijn en dat er maar een gering aantal volwassen wormen gevonden wordt. Op één van de bedrijven is Ivermectine met succes toegepast als ontwormingsmiddel. Vanuit de gegevens wordt de aanbeveling gedaan de varkens bij aankomst op het bedrijf te ontwormen, om zo ‘schoon’ te beginnen. Individueel ontwormen heeft daarbij de voorkeur boven toevoeging van wormmiddel aan drinkwater of voer. Het ontwormen kan maximaal twee keer herhaald worden om de zes weken. Het IBL is een onderzoek gestart naar phytotherapie dit kan een aanzet geven tot biologische bestrijding van worminfecties. Er wordt opgemerkt dat de biologische varkens in Nederland niet geselecteerd zijn op kenmerken voor buitenvarkens. Selectie op buitenvarkens zou een deel van de diergebonden problemen kunnen oplossen. Om ammoniakemissies te beperken moet er een continue afvoer van urine en regelmatige afvoer van feces zijn, daarom worden roostervloer en mestschuif aanbevolen. Tevens zijn de emissies afhankelijk van het management. De emissies zijn te beperken door hokbevuiling tegen te gaan met een goede stalinrichting en klimatisering. Geconcludeerd wordt dat de maximale norm voor minerale belastingen van de weide op sommige bedrijven fors wordt overschreden en dat management een belangrijke rol speelt in de beperking van de minerale belasting in de onverharde uitloop. Kleigronden blijken het meest geschikt te zijn voor weidegang voor zeugen, met name omdat er op zandgronden nitraatuitspoeling ontstaat. Aanbevolen wordt het aantal zeugen en de grootte van de uitloop nauwkeurig op elkaar af te stemmen om overbemesting te voorkomen. De minerale belasting in de weide is tevens te beperken door de zeugen een verharde 'tussenuitloop’ aan te bieden en ze daar te laten mesten. Een betere mestverspreiding kan worden bereikt door een grote weide op te delen in kleinere weide en te roteren in gebruik."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/524719",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/451966",
+			"titles": ["Hoge arbeidsefficiëntie door gezond vee en inzet techniek"],
+			"formats": [],
+			"authors": ["Doornewaard, G.J.", "Haan, M.H.A., de"],
+			"authorsDetailed": [
+				{
+					"full": "Doornewaard, G.J."
+				},
+				{
+					"full": "Haan, M.H.A., de"
+				}
+			],
+			"publisher": ["WUR_staff repository, 2017"],
+			"languages": ["nl"],
+			"summaries": [
+				"De ontwikkeling van het bedrijf van Koeien & Kansen-deelnemers Mark Pijnenborg en Marianne van Kempen heeft altijd in het teken gestaan van het hebben van een omvang die economisch perspectief biedt voor één fte. Mark: “Melkvee houden is ook geld verdienen, want zonder economie geen duurzaamheid.” Momenteel wordt ruim 1 miljoen kg melk geproduceerd, waarbij de productiemiddelen goed op elkaar zijn afgestemd en zorgen voor een hoog saldo. Het vee wordt goed verzorgd en laat een hoge productie zien. Ook dat is een basis voor een goede economische prestatie. De afgelopen jaren is vooral ingezet op arbeidsefficiëntie en -gemak, zodat Mark het werk alleen kan blijven doen zonder zware fysieke belasting. Dit brengt echter wel kosten met zich mee."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/549924",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/474917",
+			"titles": [
+				"Een onderzoek naar mogelijke relaties tussen de afname van weidevogels en de aanwezigheid van bestrijdingsmiddelen op veehouderijbedrijven : onderzoeksrapport"
+			],
+			"formats": [],
+			"authors": [
+				"Buijs, Jelmer",
+				"Samwel-Mantingh, Margriet",
+				"Berendse, F.",
+				"Mansvelt, J.D., van",
+				"Berg, M., van der",
+				"Ragas, A.M.J.",
+				"Oomen, Gerard",
+				"Dicke, M."
+			],
+			"authorsDetailed": [
+				{
+					"full": "Buijs, Jelmer"
+				},
+				{
+					"full": "Samwel-Mantingh, Margriet"
+				},
+				{
+					"full": "Berendse, F."
+				},
+				{
+					"full": "Mansvelt, J.D., van"
+				},
+				{
+					"full": "Berg, M., van der"
+				},
+				{
+					"full": "Ragas, A.M.J."
+				},
+				{
+					"full": "Oomen, Gerard"
+				},
+				{
+					"full": "Dicke, M."
+				}
+			],
+			"publisher": ["Buijs Agro-Services, 2019"],
+			"languages": ["nl"],
+			"summaries": [
+				"In dit onderzoek werd op 24 Gelderse veehouderijbedrijven (15 gangbare en 9 biologische) de belasting van krachtvoer, mest en bodem met 685 verschillende bestrijdingsmiddelen en anti-parasitaire geneesmiddelen onderzocht. Verder nam in dit onderzoek een boomkwekerij deel, van welke de bodem werd onderzocht. In de drie substraten werden 134 verschillende fungiciden, herbiciden, insecticiden en biociden gevonden in ecologisch relevante concentraties. Op de 16 gangbare bedrijven werden in het totaal 116 bestrijdingsmiddelen gevonden en op 9 biologische 71. Geen enkel monster was vrij van bestrijdingsmiddelen. De concentraties in biologisch krachtvoer waren gemiddeld 3,7 maal lager dan in gangbaar krachtvoer. De gehalten in mest en in de bodem waren bij biologische bedrijven resp. 14% en 42% lager dan bij gangbare bedrijven. In 20 van de 24 onderzochte veebedrijven werden in de mest geen anti-parasitaire middelen boven de detectie grens gevonden. Op drie gangbare bedrijven en op één biologisch bedrijf werden die wel gevonden."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/322150",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/32458",
+			"titles": [
+				"Het mineralenspoor in 'Koeien & Kansen'. De mineralenstromen zoals verwacht bij het realiseren van de MINAS-eindnormen"
+			],
+			"formats": [],
+			"authors": ["Oenema, J.", "Aarts, H.F.M."],
+			"authorsDetailed": [
+				{
+					"full": "Oenema, J."
+				},
+				{
+					"full": "Aarts, H.F.M."
+				}
+			],
+			"publisher": ["Plant Research International [etc.], 2001"],
+			"languages": ["nl"],
+			"summaries": [
+				"De overheid heeft in 1998 het mineralenaangiftesysteem (MINAS) geïntroduceerd. Hierin worden maxima gesteld voor de overschotten van stikstof (N) en fosfaat (P2O5) op bedrijfsniveau. Met dit beleid verwacht de overheid in 2003 de verliezen van stikstof en fosfor (P) zover te hebben teruggedrongen dat voldaan wordt aan internationale afspraken met betrekking tot de N- en P-belasting van grondwater en oppervlaktewater. Het project ‘Koeien & Kansen’ is in het voorjaar van 1999 van start gegaan. Een belangrijk doel in het project is het beperken van de mineralenverliezen. Concreet geldt dat de MINAS-normen in 2003 (eindnormen) al in het boekjaar 2000/2001 moeten zijn gerealiseerd. Het gros van de deelnemende melkveebedrijven in ‘Koeien & Kansen’ haalde voor aanvang van het project de MINAS-eindnormen nog niet. Voor elk bedrijf is een pakket maatregelen vastgesteld (‘strategie’) waarmee naar verwachting wel aan de MINAS-eindnormen kan worden voldaan. Dit rapport behandelt het verwachte mineralenspoor op de 17 ‘Koeien & Kansen’ bedrijven na het nemen van deze maatregelen"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/390073",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/135537",
+			"titles": [
+				"Onderzoeksproject KRW-pilot bollensector : vooronderzoek en plan van aanpak"
+			],
+			"formats": [],
+			"authors": [
+				"Groenendijk, P.",
+				"Kool, S.A.M., de",
+				"Grift, B., van der",
+				"Stuurman, R.J.",
+				"Janssen, G.M.C.M."
+			],
+			"authorsDetailed": [
+				{
+					"full": "Groenendijk, P."
+				},
+				{
+					"full": "Kool, S.A.M., de"
+				},
+				{
+					"full": "Grift, B., van der"
+				},
+				{
+					"full": "Stuurman, R.J."
+				},
+				{
+					"full": "Janssen, G.M.C.M."
+				}
+			],
+			"publisher": ["Alterra, 2009"],
+			"languages": ["nl"],
+			"summaries": [
+				"Voor de verbetering van de kwaliteit van het oppervlaktewater in de Duin- en Bollenstreek is inzicht nodig in de sturende processen. Om dit inzicht te verwerven en om informatie te krijgen over de effectiviteit van kansrijke maatregelen gaat het Hoogheemraadschap van Rijnland een pilot inrichten. De meerjarige pilot zal een aanzienlijke onderzoeksinspanning vergen. In een voorstudie hebben Alterra, Deltares en PPO een inventarisatie uitgevoerd t.a.v. de eigenschappen van het gebied, de waterhuishouding, mogelijke maatregelen en eerder uitgevoerde onderzoeksprojecten waarin de belasting van oppervlaktewater vanuit de bodem wordt gemeten. Na een reeks veldbezoeken is een bedrijf geselecteerd waar vanaf 2010 veldonderzoek kan worden uitgevoerd. Gebaseerd op deze informatie is een globaal meet- en monitoringsplan opgesteld met de aanbeveling om in het eerste kwartaal van 2010 een bemonstering van de bodem en het drainwater uit te voeren om binnen de percelen de meest geschikte locaties aan te wijzen voor de installatie van meetapparatuur"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|FreudenthalInstituut:oai:www.freudenthal.nl:toepassingen/28419/nl",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://www.fisme.science.uu.nl/toepassingen/28419/",
+			"titles": ["Weten we hoeveel en wat we eten?"],
+			"formats": [],
+			"publisher": ["Universiteit Utrecht, Freudenthal Instituut"],
+			"languages": ["nl"],
+			"summaries": [
+				"Het is zeer belangrijk om antwoord te krijgen op de vraag hoeveel en wat we eten dus iedereen dient na te denken over de energiewaarde van voeding, en regels en structuur voor een gezond dieet. Daarnaast zou ook rekening gehouden moeten worden met de regionale en culturele verschillen, en de fysieke belasting.  \nMet andere woorden, het gaat niet alleen om persoonlijke verantwoordelijkheid, er zijn ook nieuwe  beroepen die zich richten op het optimaliseren van voeding. Op deze manier voegen nieuwe branches die zich bezighouden met analyse en toxicologie van voeding, bio-landbouw, en voedingsadvies zich bij de traditionele branches zoals de landbouw, voedingsindustrie, en biotechnologie. \nDe leerlingen werken als professionals op het gebied van voedingsanalyse in een bedrijf/instituut welke zich richt op het optimaliseren van de kwantiteit en inhoud (kwaliteit) van voeding. Ze gebruiken berekeningsinstrumenten (toegankelijk via het internet) voor kwantitatieve analyse en voedingsportals (toegankelijk via het internet) voor kwalitatieve analyse van de voedingsproducten en het interpreteren van de resultaten van hun analyse vanuit het oogpunt van culturele verschillen, binnen de nationale, regionale of zelfs internationale context.\n"
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|wur_staff:oai:library.wur.nl:wurpubs/306273",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://edepot.wur.nl/36717",
+			"titles": ["Landelijk meetnet bodemkwaliteit; resultaten 1994"],
+			"formats": [],
+			"authors": [
+				"(RIVM) Groot, M.S.M.",
+				"(RIVM) Bronswijk, J.J.B.",
+				"(RIVM) Willems, W.J.",
+				"Haan, T., de",
+				"(AB-DLO) del Castilho, P."
+			],
+			"authorsDetailed": [
+				{
+					"full": "(RIVM) Groot, M.S.M."
+				},
+				{
+					"full": "(RIVM) Bronswijk, J.J.B."
+				},
+				{
+					"full": "(RIVM) Willems, W.J."
+				},
+				{
+					"full": "Haan, T., de"
+				},
+				{
+					"full": "(AB-DLO) del Castilho, P."
+				}
+			],
+			"publisher": ["RIVM, 1997"],
+			"languages": ["nl"],
+			"summaries": [
+				"Het Landelijk Meetnet Bodemkwaliteit (LMB) heeft als primaire doelstelling de trendmatige veranderingen na te gaan in de kwaliteit van de bodem ten gevolge van diffuse belasting van de bodem. Het object van onderzoek is de toplaag van de bodem (0-10 cm); daarnaast wordt ook een diepere bodemlaag en het bovenste grondwater onderzocht. Het LMB wordt in samenwerking met LEI-DLO en AB-DLO uitgevoerd. Jaarlijks worden een 2-tal combinaties van bodemgebruik en grondsoort bemonsterd, bestaande uit ca. 20 locaties per combinatie. In 1993 is gestart met de bemonstering van landbouwgrond op zandgrond. Voor het bodemgebruik landbouw is het bedrijf de schaal van de locatie. De categorieen die in 1994 zijn onderzocht, zijn melkveehouderijbedrijven met een groot aandeel intensieve veehouderij op zandgrond en bos op zandgrond. Naast algemene kwaliteitsparameters zijn parameters onderzocht die gerelateerd zijn aan de milieuthema's vermesting en verspreiding. Vermestingsparameters zijn fosfaat (bodem en grondwater) , nitraat, kalium en ammonium (grondwater). Voor verspreiding zijn zware metalen onderzocht (bodem en grondwater). Voorts zijn bodemgehalten aan PAK en een aantal organochloorbestrijdingsmiddelen (OCB) bepaald."
+			]
+		},
+		{
+			"id": "|universal/sru_edurep|KlasCement:oai:s01.klascement.net:146151",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "https://www.klascement.net/146151/",
+			"titles": ["Economische kringloop : Audiovisueel lesmateriaal"],
+			"formats": [],
+			"authors": ["meemoo, Vlaams instituut voor het archief"],
+			"authorsDetailed": [
+				{
+					"full": "meemoo, Vlaams instituut voor het archief"
+				}
+			],
+			"publisher": ["KlasCement, 2022-01-17"],
+			"languages": ["nl"],
+			"summaries": [
+				"In deze collectie vind je beeld- en geluidsfragmenten over de economische kringloop, samen met meer context en concrete lestips.\nWe vertrekken van de twee basisspelers in de economische kringloop, de gezinnen en bedrijven, om stelselmatig uit te breiden met de overheid, de financiële instellingen en het buitenland. Zo komen we tot een volledig beeld van de spelers in onze economie.\nBekijk de collectie Economische kringloop op Het Archief voor Onderwijs >",
+				"In this collection you will find image and sound fragments about the economic cycle, together with more context and concrete teaching tips. We start from the two basic players in the economic cycle, the households and companies, in order to systematically expand to include the government, financial institutions and abroad. In this way we arrive at a complete picture of the players in our economy. View the collection Economic cycle at The Archive for Education >"
+			]
 		}
 	]
 }
