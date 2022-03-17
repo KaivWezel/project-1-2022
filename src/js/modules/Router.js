@@ -3,7 +3,6 @@ import getData from "./fetch.js";
 import { endpoint, cors, resultsUrl } from "./variables.js";
 
 export default async function handleRoutes() {
-	console.log("hashchange", window.location.hash);
 	switch (window.location.hash) {
 		case "#stappenplan":
 			UI.loadBooks();
@@ -14,6 +13,7 @@ export default async function handleRoutes() {
 			UI.activatePage();
 			break;
 		default:
+			UI.activatePage();
 			break;
 	}
 }
