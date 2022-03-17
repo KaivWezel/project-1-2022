@@ -1,27 +1,29 @@
 export const bookCard = (data) => {
-	// Create elements in document
 	console.log(data);
+	// Create elements in document
 	const link = document.createElement("a");
 	const card = document.createElement("article");
 	card.classList.add("bookCard");
 	const hero = document.createElement("img");
+	const info = document.createElement("div");
+	info.classList.add("info");
 	const title = document.createElement("h4");
 	const desc = document.createElement("p");
 	// Assign content to elements
 	link.href = data.detailLink;
 	hero.src = data.coverimages[1];
-	title.innerText = data.titles ? data.titles[0] : "Geen title beschikbaar";
-	desc.innerText = data.summaries
-		? data.summaries[0]
-		: "Geen samenvatting beschikbaar";
+	title.innerText = data.authors ? data.authors : "Onbekend";
+	desc.innerText = data["subject-topical"]
+		? data["subject-topical"].join(", ")
+		: "Ondernemen";
 	// Append elements to card
-	card.append(hero, title, desc);
+	info.append(title, desc);
+	card.append(hero, info);
 	link.append(card);
 	return link;
 };
 
 export const resultCard = (data) => {
-	console.log(data);
 	const card = document.createElement("article");
 	const title = document.createElement("h4");
 	const desc = document.createElement("p");
