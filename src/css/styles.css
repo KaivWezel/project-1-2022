@@ -20,6 +20,26 @@ p {
 	font-size: 14px;
 }
 
+h1 {
+	font-size: 3rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+h3 {
+	font-size: 2rem;
+	margin-left: 1rem;
+	margin-top: 2rem;
+}
+p {
+	margin: auto;
+	text-align: center;
+}
+
 /* =================================== */
 /* Header includes logo and navigation */
 /* =================================== */
@@ -55,6 +75,10 @@ section {
 	display: none;
 }
 
+section.active {
+	display: block;
+}
+
 .events {
 	padding: 1rem;
 	background: black;
@@ -88,7 +112,8 @@ section {
 
 .bookshelf {
 	display: flex;
-	overflow-x: scroll;
+	overflow-x: auto;
+
 	padding: 2rem 1rem;
 }
 
@@ -100,11 +125,8 @@ section {
 
 .bookshelf a {
 	display: block;
-	width: 250px;
-	height: 350px;
+	max-width: 200px;
 	text-decoration: none;
-
-	perspective: 1000px;
 }
 
 .bookshelf a:nth-last-child(n + 2) {
@@ -112,36 +134,12 @@ section {
 }
 
 .bookCard {
-	width: 100%;
-	height: 100%;
-	background: black;
-	color: white;
-	position: relative;
-
-	transform-style: preserve-3d;
-	transform: rotateY(180deg);
-	transition: 0.8s ease-out;
+	color: black;
+	text-align: left;
 }
 
-.bookshelf a:hover .bookCard {
-	transform: rotateY(0deg);
-}
-
-.bookCard img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-
-	transform: rotateY(180deg);
-	backface-visibility: hidden;
-	position: absolute;
-	background: black;
-}
-
-.bookCard p,
-.bookCard h4 {
-	padding: 0.5rem;
-	width: 100%;
+.bookCard p {
+	text-align: left;
 }
 
 /* Cursor markup */
