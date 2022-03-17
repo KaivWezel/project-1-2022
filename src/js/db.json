@@ -1,1320 +1,1173 @@
 {
 	"books": [
 		{
-			"id": "|oba-catalogus|1244722",
+			"id": "|oba-catalogus|123241",
 			"frabl": {
-				"key1": "voeding en jouw eetgedrag",
-				"key2": "anna claybourne",
+				"key1": "de onderneming",
+				"key2": "maksim gor kij",
 				"cnt": "1",
-				"value": "5BD15D2EBFF360A0"
+				"value": "69593CFC68F360A0"
 			},
-			"detailLink": "http://zoeken.oba.nl/detail/Anna-Claybourne/Voeding-en-jouw-eetgedrag/Boek/?itemid=%7coba-catalogus%7c1244722",
+			"detailLink": "http://zoeken.oba.nl/detail/Maksim-Gor%27kij/De-onderneming/Boek/?itemid=%7coba-catalogus%7c123241",
 			"titles": [
-				"Voeding en jouw eetgedrag",
-				"Voeding en jouw eetgedrag / Anna Claybourne"
+				"De onderneming",
+				"De onderneming / door Maxim Gorki ; geautoriseerde vert. van Lj. van Praag-Dworson"
 			],
-			"isbn": ["=9789086646876"],
 			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=428916066&isbn=9789086646876&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/428916066&token=c1322402"
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=840045859&isbn=&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/840045859&token=c1322402"
 			],
 			"formats": [
 				{
 					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
 				}
 			],
-			"authors": ["Anna Claybourne", "Ellen Hoppenbrouwers", "Ida Schuurman"],
+			"authors": ["Maksim Gor'kij"],
 			"authorsDetailed": [
 				{
-					"full": "Anna Claybourne",
-					"firstname": "Anna",
-					"lastname": "Claybourne",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Ellen Hoppenbrouwers",
-					"lastname": "Ellen Hoppenbrouwers",
-					"localized-type": "Vertaler",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Ida Schuurman",
-					"lastname": "Ida Schuurman",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2021",
-			"publisher": ["Schoolsupport, Etten-Leur, [2021]"],
-			"subject-topical": ["Voedingsleer", "Gezonde voeding"],
-			"languages": ["Nederlands", "Engels"],
-			"summaries": [
-				"Wat gebeurt er als je niet gezond eet? Wat zijn eigenlijk 'goede' en 'slechte' producten? Lees van alles over gezonde voeding, om de (veel) juiste keuzes te maken. Ook dieten en eetstoornissen komen aan bod.  Met veel kleine kleurenillustraties. Vanaf ca. 10 t/m 13 jaar."
-			],
-			"description": [
-				"32 pagina's",
-				"32 pagina's: gekleurde illustraties ; 26 cm"
-			],
-			"note": "Vertaling van: Food and eating. - Franklin Watts, (c)2016. - (Healthy for life)",
-			"series": [
-				{
-					"text": "Jij en je lichaam"
-				}
-			],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding en jouw eetgedrag",
-						"key2": "anna claybourne",
-						"cnt": "1",
-						"value": "5BD15D2EBFF360A0"
-					}
-				]
-			},
-			"siso": ["J628.4"]
-		},
-		{
-			"id": "|oba-catalogus|166036",
-			"frabl": {
-				"key1": "voeding",
-				"key2": "cden hartog",
-				"cnt": "1",
-				"value": "612B47BB88F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/C-den-Hartog/Voeding/Boek/?itemid=%7coba-catalogus%7c166036",
-			"titles": [
-				"Voeding",
-				"Voeding / door C. den Hartog ; ill. verzorgd door Heleen van Dijk"
-			],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=047048069&isbn=&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/047048069&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["C. den Hartog", "Heleen Rijneveld"],
-			"authorsDetailed": [
-				{
-					"full": "C. den Hartog",
-					"firstname": "C.",
-					"lastname": "Hartog",
-					"creatortype": "person"
-				},
-				{
-					"full": "Heleen Rijneveld",
-					"lastname": "Heleen Rijneveld",
-					"creatortype": "organization"
-				}
-			],
-			"year": "1956",
-			"publisher": ["Duwaer, Amsterdam, 1956"],
-			"subject-topical": ["Voedingsleer"],
-			"languages": ["Nederlands"],
-			"description": ["55 p", "55 p: ill ; 20 cm"],
-			"series": [
-				{
-					"text": "Boortorenreeks"
-				}
-			],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding",
-						"key2": "cden hartog",
-						"cnt": "1",
-						"value": "612B47BB88F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1186784",
-			"frabl": {
-				"key1": "101 mythes over voeding",
-				"key2": "vreni van unen lisa van rens evert van hardeveld",
-				"cnt": "1",
-				"value": "3EBA64C236F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Vreni-van-Unen/101-mythes-over-voeding/Boek/?itemid=%7coba-catalogus%7c1186784",
-			"titles": [
-				"101 mythes over voeding",
-				"101 mythes over voeding / vertaling [uit het Duits]: Vreni van Unen"
-			],
-			"isbn": ["=9789059514164"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=417341229&isbn=9789059514164&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/417341229&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Vreni van Unen", "Lisa van Rens", "Evert van Hardeveld"],
-			"authorsDetailed": [
-				{
-					"full": "Vreni van Unen",
-					"lastname": "Vreni van Unen",
-					"localized-type": "Vertaler",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Lisa van Rens",
-					"lastname": "Lisa van Rens",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Evert van Hardeveld",
-					"lastname": "Evert van Hardeveld",
-					"localized-type": "Medewerker",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2018",
-			"publisher": ["Consumentenbond, Den Haag, maart 2018"],
-			"subject-topical": ["Voeding", "Gezondheid", "Voedingsleer"],
-			"languages": ["Nederlands", "Duits"],
-			"description": ["189 pagina's", "189 pagina's: illustraties ; 24 cm"],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "101 mythes over voeding",
-						"key2": "vreni van unen lisa van rens evert van hardeveld",
-						"cnt": "1",
-						"value": "3EBA64C236F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1155031",
-			"frabl": {
-				"key1": "etenstijd na het lezen van dit boek weet je meer over voeding dan je ouders",
-				"key2": "bas houweling",
-				"cnt": "1",
-				"value": "18FBC6CE39F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Bas-Houweling/Etenstijd-na-het-lezen-van-dit-boek-weet-je/Boek/?itemid=%7coba-catalogus%7c1155031",
-			"titles": [
-				"Etenstijd : na het lezen van dit boek weet je meer over voeding dan je ouders",
-				"Etenstijd : na het lezen van dit boek weet je meer over voeding dan je ouders / huisarts dokter Bas Houweling & wetenschapper dokter Nanno Kleefstra & diëtist en voedingswetenschapper Kirsten Berk"
-			],
-			"isbn": ["=9789082491418"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=402326806&isbn=9789082491418&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/402326806&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": [
-				"Bas Houweling",
-				"Nanno Kleefstra",
-				"Kirsten Berk",
-				"Floortje Klinkenberg",
-				"Herma Geerts-Nolet",
-				"Tineke Dorst",
-				"Pierre Wind"
-			],
-			"authorsDetailed": [
-				{
-					"full": "Bas Houweling",
-					"firstname": "Bas",
-					"lastname": "Houweling",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Nanno Kleefstra",
-					"lastname": "Nanno Kleefstra",
-					"localized-type": "Auteur",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Kirsten Berk",
-					"lastname": "Kirsten Berk",
-					"localized-type": "Auteur",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Floortje Klinkenberg",
-					"lastname": "Floortje Klinkenberg",
-					"localized-type": "Illustrator",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Herma Geerts-Nolet",
-					"lastname": "Herma Geerts-Nolet",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Tineke Dorst",
-					"lastname": "Tineke Dorst",
-					"localized-type": "Illustrator",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Pierre Wind",
-					"lastname": "Pierre Wind",
-					"localized-type": "Medewerker",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2016",
-			"publisher": ["Uitgeverij Langerhans, [Zwolle], [2016]"],
-			"subject-topical": ["Voeding"],
-			"languages": ["Nederlands"],
-			"summaries": [
-				"Wat moet je doen als je geen groente lust? En welke informatie staat er allemaal op verpakkingen?  Een (huis)arts, wetenschapper en dietist leggen uit wat gezond eten is en waarom dat belangrijk is. Met veel grappige kleurenillustraties, weetjes en quizvragen. Vanaf ca. 10 t/m 12 jaar."
-			],
-			"description": [
-				"124 pagina's",
-				"124 pagina's: gekleurde tekeningen ; 22 cm"
-			],
-			"note": "Titel ook te lezen als: Etenstrijd. - Met literatuuropgave, index",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "etenstijd na het lezen van dit boek weet je meer over voeding dan je ouders",
-						"key2": "bas houweling",
-						"cnt": "1",
-						"value": "18FBC6CE39F360A0"
-					}
-				]
-			},
-			"siso": ["J628.1"]
-		},
-		{
-			"id": "|oba-catalogus|1172647",
-			"frabl": {
-				"key1": "voeding je gezondheid",
-				"key2": "angela severs",
-				"cnt": "1",
-				"value": "F51B31BC8F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Angela-Severs/Voeding-je-gezondheid/Boek/?itemid=%7coba-catalogus%7c1172647",
-			"titles": [
-				"Voeding & je gezondheid",
-				"Voeding & je gezondheid / Angela Severs & Christel Vondermans"
-			],
-			"isbn": ["=9789059513884"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=411174339&isbn=9789059513884&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/411174339&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": [
-				"Angela Severs",
-				"Christel Vondermans",
-				"Evert van Hardeveld",
-				"Stefan Boerboom"
-			],
-			"authorsDetailed": [
-				{
-					"full": "Angela Severs",
-					"firstname": "Angela",
-					"lastname": "Severs",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Christel Vondermans",
-					"lastname": "Christel Vondermans",
-					"localized-type": "Auteur",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Evert van Hardeveld",
-					"lastname": "Evert van Hardeveld",
-					"localized-type": "Medewerker",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Stefan Boerboom",
-					"lastname": "Stefan Boerboom",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2017",
-			"publisher": ["Consumentenbond, Den Haag, juni 2017"],
-			"subject-topical": ["Voeding", "Gezondheid", "Voedingsleer"],
-			"languages": ["Nederlands"],
-			"summaries": [
-				"De meest recente wetenschappelijke inzichten over de rol van voeding bij gezondheid en preventie van ziekte."
-			],
-			"description": ["158 pagina's", "158 pagina's: illustraties ; 24 cm"],
-			"note": "Met register",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding je gezondheid",
-						"key2": "angela severs",
-						"cnt": "1",
-						"value": "F51B31BC8F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1197230",
-			"frabl": {
-				"key1": "voeding en de gevende kracht van de mens de geestelijke betekenis van de voeding",
-				"key2": "heinz grill",
-				"cnt": "1",
-				"value": "7A09CCF932F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Heinz-Grill/Voeding-en-de-gevende-kracht-van-de-mens-de/Boek/?itemid=%7coba-catalogus%7c1197230",
-			"titles": [
-				"Voeding en de gevende kracht van de mens : de geestelijke betekenis van de voeding",
-				"Voeding en de gevende kracht van de mens : de geestelijke betekenis van de voeding / Heinz Grill"
-			],
-			"isbn": ["=9789461680624"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=41921738X&isbn=9789461680624&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/41921738X&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": [
-				"Heinz Grill",
-				"Kurt Deneir",
-				"Christine Medaer",
-				"Peter Vandermeersch",
-				"Christine Hüttl"
-			],
-			"authorsDetailed": [
-				{
-					"full": "Heinz Grill",
-					"firstname": "Heinz",
-					"lastname": "Grill",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Kurt Deneir",
-					"lastname": "Kurt Deneir",
-					"localized-type": "Vertaler",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Christine Medaer",
-					"lastname": "Christine Medaer",
-					"localized-type": "Vertaler",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Peter Vandermeersch",
-					"lastname": "Peter Vandermeersch",
-					"localized-type": "Vertaler",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Christine Hüttl",
-					"lastname": "Christine Hüttl",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2018",
-			"publisher": ["Zorro uitgeverij, Damme, mei 2018"],
-			"subject-topical": ["Voeding", "Antroposofische visie"],
-			"languages": ["Nederlands", "Duits"],
-			"summaries": [
-				"Studieboek over de invloed en betekenis van voeding op/voor het ziels-geestelijke leven van mensen."
-			],
-			"description": ["200 pagina's", "200 pagina's: illustraties ; 27 cm"],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding en de gevende kracht van de mens de geestelijke betekenis van de voeding",
-						"key2": "heinz grill",
-						"cnt": "1",
-						"value": "7A09CCF932F360A0"
-					}
-				]
-			},
-			"siso": ["628.9"]
-		},
-		{
-			"id": "|oba-catalogus|1115904",
-			"frabl": {
-				"key1": "handboek plantaardige en rauwe voeding voeding die voedt reinigt beschermt en geneest",
-				"key2": "laurette van slobbe",
-				"cnt": "1",
-				"value": "4572F2B213F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Laurette-van-Slobbe/Handboek-plantaardige-en-rauwe-voeding/Boek/?itemid=%7coba-catalogus%7c1115904",
-			"titles": [
-				"Handboek plantaardige en rauwe voeding : voeding die voedt, reinigt, beschermt en geneest",
-				"Handboek plantaardige en rauwe voeding : voeding die voedt, reinigt, beschermt en geneest / Laurette van Slobbe"
-			],
-			"isbn": ["=9789062245376"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=37549670X&isbn=9789062245376&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/37549670X&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Laurette van Slobbe"],
-			"authorsDetailed": [
-				{
-					"full": "Laurette van Slobbe",
-					"firstname": "Laurette",
-					"lastname": "Slobbe",
+					"full": "Maksim Gor'kij",
+					"firstname": "Maksim",
+					"lastname": "Gor'kij",
 					"creatortype": "person"
 				}
 			],
-			"year": "2014",
-			"publisher": [
-				"Twello",
-				"Hof van Twello, Utrecht",
-				"Jan van Arkel, april 2014"
-			],
-			"subject-topical": [
-				"Rauwkost",
-				"Voedingsleer",
-				"Vegetarische voeding",
-				"Rauwkostrecepten"
-			],
-			"languages": ["Nederlands"],
-			"description": ["319 pagina's", "319 pagina's: illustraties ; 23 cm"],
-			"note": "Met index, literatuuropgave",
+			"year": "1927",
+			"year": "1927",
+			"publisher": ["Van Loghum Slaterus, Arnhem, 1927"],
+			"languages": ["Nederlands", "Russisch"],
+			"description": ["445 p", "445 p ; 21 cm"],
 			"undup": {
 				"alsoAvailableAsCount": "0",
 				"items": [
 					{
-						"key1": "handboek plantaardige en rauwe voeding voeding die voedt reinigt beschermt en geneest",
-						"key2": "laurette van slobbe",
+						"key1": "de onderneming",
+						"key2": "maksim gor kij",
 						"cnt": "1",
-						"value": "4572F2B213F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1254132",
-			"frabl": {
-				"key1": "gezonde voeding",
-				"key2": "bo buijs",
-				"cnt": "1",
-				"value": "1D6BC68DFCF360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Bo-Buijs/Gezonde-voeding/Boek/?itemid=%7coba-catalogus%7c1254132",
-			"titles": ["Gezonde voeding", "Gezonde voeding / Bo Buijs"],
-			"isbn": ["=9789086648085"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=435006452&isbn=9789086648085&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/435006452&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Bo Buijs", "Karin van Hoof"],
-			"authorsDetailed": [
-				{
-					"full": "Bo Buijs",
-					"firstname": "Bo",
-					"lastname": "Buijs",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Karin van Hoof",
-					"lastname": "Karin van Hoof",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2022",
-			"publisher": ["Schoolsupport, Etten-Leur, [2022]"],
-			"subject-topical": ["Gezonde voeding"],
-			"languages": ["Nederlands"],
-			"description": [
-				"32 pagina's",
-				"32 pagina's: gekleurde illustraties ; 24 cm"
-			],
-			"note": "Colofon vermeldt: 0/22. - Met literatuuropgave",
-			"series": [
-				{
-					"text": "Informatie"
-				}
-			],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "gezonde voeding",
-						"key2": "bo buijs",
-						"cnt": "1",
-						"value": "1D6BC68DFCF360A0"
-					}
-				]
-			},
-			"siso": ["J628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1177271",
-			"frabl": {
-				"key1": "van mammoet tot big mac een geschiedenis van onze voeding",
-				"key2": "staf henderickx",
-				"cnt": "1",
-				"value": "B77588911F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Staf-Henderickx/Van-mammoet-tot-big-mac-een-geschiedenis-van/Boek/?itemid=%7coba-catalogus%7c1177271",
-			"titles": [
-				"Van mammoet tot big mac : een geschiedenis van onze voeding",
-				"Van mammoet tot big mac : een geschiedenis van onze voeding / Staf Henderickx"
-			],
-			"isbn": ["=9789462671171"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=412908344&isbn=9789462671171&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/412908344&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Staf Henderickx"],
-			"authorsDetailed": [
-				{
-					"full": "Staf Henderickx",
-					"firstname": "Staf",
-					"lastname": "Henderickx",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				}
-			],
-			"year": "2017",
-			"publisher": ["EPO, Berchem, [2017]"],
-			"subject-topical": ["Voeding", "Cultuurgeschiedenis"],
-			"languages": ["Nederlands"],
-			"description": ["303 pagina's", "303 pagina's ; 23 cm"],
-			"note": "Met literatuuropgave",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "van mammoet tot big mac een geschiedenis van onze voeding",
-						"key2": "staf henderickx",
-						"cnt": "1",
-						"value": "B77588911F360A0"
-					}
-				]
-			},
-			"siso": ["906.3"]
-		},
-		{
-			"id": "|oba-catalogus|1034659",
-			"frabl": {
-				"key1": "voeding en fysieke degeneratie het basisboek over voeding en het voorkomen van ziekten",
-				"key2": "weston aprice",
-				"cnt": "1",
-				"value": "404D3A49A1F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Weston-A-Price/Voeding-en-fysieke-degeneratie-het-basisboek/Boek/?itemid=%7coba-catalogus%7c1034659",
-			"titles": [
-				"Voeding en fysieke degeneratie : het basisboek over voeding en het voorkomen van ziekten",
-				"Voeding en fysieke degeneratie : het basisboek over voeding en het voorkomen van ziekten / Weston A. Price"
-			],
-			"isbn": ["9789079872428"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=339254963&isbn=9789079872428&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/339254963&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Weston A. Price", "Titus van den Hurk", "Mike Donkers"],
-			"authorsDetailed": [
-				{
-					"full": "Weston A. Price",
-					"firstname": "Weston A.",
-					"lastname": "Price",
-					"creatortype": "person"
-				},
-				{
-					"full": "Titus van den Hurk",
-					"lastname": "Titus van den Hurk",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Mike Donkers",
-					"lastname": "Mike Donkers",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2012",
-			"publisher": ["Succesboeken.nl, [Den Dolder], cop. 2012"],
-			"subject-topical": [
-				"Voeding",
-				"Gezondheid",
-				"Welvaartsziekten",
-				"Voedingsleer",
-				"Ziekten",
-				"Preventie",
-				"Mondaandoeningen"
-			],
-			"languages": ["Nederlands", "Engels"],
-			"description": ["516 p", "516 p: ill ; 31 cm"],
-			"note": "Vert. van: Nutrition and physical degeneration. - Cop. 1939",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding en fysieke degeneratie het basisboek over voeding en het voorkomen van ziekten",
-						"key2": "weston aprice",
-						"cnt": "1",
-						"value": "404D3A49A1F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|610459",
-			"frabl": {
-				"key1": "voeding en gezondheid een overzicht van de functionele componenten in levensmid d elen en van de relatie voeding en gezondheid",
-				"key2": "john van camp stefaan de henauw mirjana andjelkovic",
-				"cnt": "1",
-				"value": "4BC8A1FA35F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/John-Van-Camp/Voeding-en-gezondheid-een-overzicht-van-de/Boek/?itemid=%7coba-catalogus%7c610459",
-			"titles": [
-				"Voeding en gezondheid : een overzicht van de functionele componenten in levensmid[d]elen en van de relatie voeding en gezondheid",
-				"Voeding en gezondheid : een overzicht van de functionele componenten in levensmid[d]elen en van de relatie voeding en gezondheid / John Van Camp, Stefaan De Henauw, Bruno De Meulenaer (red.)"
-			],
-			"isbn": ["9020966006=9789020966008"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=294558748&isbn=9789020966008&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/294558748&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["John Van Camp", "Stefaan De Henauw", "Mirjana Andjelkovic"],
-			"authorsDetailed": [
-				{
-					"full": "John Van Camp",
-					"lastname": "John Van Camp",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Stefaan De Henauw",
-					"lastname": "Stefaan De Henauw",
-					"creatortype": "organization"
-				},
-				{
-					"full": "Mirjana Andjelkovic",
-					"lastname": "Mirjana Andjelkovic",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2006",
-			"publisher": ["LannooCampus, Heverlee-Leuven, cop. 2006"],
-			"subject-topical": ["Voeding", "Gezondheid", "Voedingsleer"],
-			"languages": ["Nederlands"],
-			"description": ["132 p", "132 p: ill ; 24 cm"],
-			"note": "Uitg. in opdracht van Flander's Food, competentiepool van de Vlaamse Voedingsindustrie",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding en gezondheid een overzicht van de functionele componenten in levensmid d elen en van de relatie voeding en gezondheid",
-						"key2": "john van camp stefaan de henauw mirjana andjelkovic",
-						"cnt": "1",
-						"value": "4BC8A1FA35F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|130129",
-			"frabl": {
-				"key1": "voeding en chronische ziekten",
-				"key2": "jjvan binsbergen skalmijn",
-				"cnt": "1",
-				"value": "7A30AF8C73F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/J-J-van-Binsbergen/Voeding-en-chronische-ziekten/Boek/?itemid=%7coba-catalogus%7c130129",
-			"titles": [
-				"Voeding en chronische ziekten",
-				"Voeding en chronische ziekten / onder red. van J.J. van Binsbergen, S. Kalmijn en M.C. Ocké"
-			],
-			"isbn": ["9058050459"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=227936795&isbn=9789058050458&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/227936795&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["J.J. van Binsbergen", "S. Kalmijn"],
-			"authorsDetailed": [
-				{
-					"full": "J.J. van Binsbergen",
-					"lastname": "J.J. van Binsbergen",
-					"creatortype": "organization"
-				},
-				{
-					"full": "S. Kalmijn",
-					"lastname": "S. Kalmijn",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2001",
-			"publisher": ["Van der Wees, Utrecht, 2001"],
-			"subject-topical": ["Voeding", "Chronische ziekten"],
-			"languages": ["Nederlands"],
-			"description": ["250 p", "250 p: fig., tab ; 24 cm"],
-			"note": "Met lit. opg., reg",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding en chronische ziekten",
-						"key2": "jjvan binsbergen skalmijn",
-						"cnt": "1",
-						"value": "7A30AF8C73F360A0"
+						"value": "69593CFC68F360A0"
 					}
 				]
 			}
 		},
 		{
-			"id": "|oba-catalogus|872619",
+			"id": "|oba-catalogus|332518",
 			"frabl": {
-				"key1": "verboden onreine substanties in voeding en geneesmiddelen",
-				"key2": "nazih hammad",
+				"key1": "een eigen onderneming",
+				"key2": "wha ping chen",
 				"cnt": "1",
-				"value": "68FFCD4DA3F360A0"
+				"value": "48A97781DCF360A0"
 			},
-			"detailLink": "http://zoeken.oba.nl/detail/Nazih-_Hammad/Verboden-onreine-substanties-in-voeding-en/Boek/?itemid=%7coba-catalogus%7c872619",
+			"detailLink": "http://zoeken.oba.nl/detail/Wha-Ping-Chen/Een-eigen-onderneming/Boek/?itemid=%7coba-catalogus%7c332518",
 			"titles": [
-				"Verboden & onreine substanties in voeding en geneesmiddelen",
-				"Verboden & onreine substanties in voeding en geneesmiddelen / Nazîh _Hammâd"
+				"Een eigen onderneming",
+				"Een eigen onderneming / auteurs Wha-Ping Chen, Joost Coopmans, Jan Scholten ; red. Anneke van der Putte, Ad Stads ; [fotogr. Wim van IJzendoorn ; tek. Ortho]"
 			],
-			"isbn": ["9782930395050"],
+			"isbn": ["9065334092 (geb.)"],
 			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=313840024&isbn=9782930395050&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/313840024&token=c1322402"
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=146449916&isbn=9789065334091&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/146449916&token=c1322402"
 			],
 			"formats": [
 				{
 					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
 				}
 			],
-			"authors": ["Nazîh _Hammâd"],
+			"authors": [
+				"Wha-Ping Chen",
+				"Joost Coopmans",
+				"Jan Scholten",
+				"Anneke van der Putte"
+			],
 			"authorsDetailed": [
 				{
-					"full": "Nazîh _Hammâd",
-					"firstname": "Nazîh",
-					"lastname": "_Hammâd",
-					"creatortype": "person"
-				}
-			],
-			"year": "2008",
-			"publisher": [
-				"Brussel",
-				"al-Hadîth, Amsterdam",
-				"Sheijma [distr.], cop. 2008"
-			],
-			"subject-topical": ["Voeding", "Geloofsleer", "Islam"],
-			"languages": ["Nederlands", "Arabisch"],
-			"summaries": [
-				"Uitleg van de islamitische wetten betreffende verboden en onreine substanties in voeding en geneesmiddelen en of deze al dan niet gebruikt mogen worden door moslims."
-			],
-			"description": ["150 p", "150 p ; 22 cm"],
-			"note": "Vert. van: Al-mawâd al-mu_harrama wal-najisa fîl-ghadhâwal-dawâ. - 3e dr.",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "verboden onreine substanties in voeding en geneesmiddelen",
-						"key2": "nazih hammad",
-						"cnt": "1",
-						"value": "68FFCD4DA3F360A0"
-					}
-				]
-			},
-			"siso": ["217.3"]
-		},
-		{
-			"id": "|oba-catalogus|1147713",
-			"frabl": {
-				"key1": "kids gezonde voeding gids",
-				"key2": "rocio pol esteban",
-				"cnt": "1",
-				"value": "5FA9B6C779F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Rocio-Pol-Esteban/Kids%27-gezonde-voeding-gids/Boek/?itemid=%7coba-catalogus%7c1147713",
-			"titles": [
-				"Kids' gezonde voeding gids",
-				"Kids' gezonde voeding gids / een boek van Rocio Pol Esteban"
-			],
-			"isbn": ["=9789082430103"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=397070446&isbn=9789082430103&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/397070446&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Rocio Pol Esteban", "Carl Waffle"],
-			"authorsDetailed": [
-				{
-					"full": "Rocio Pol Esteban",
-					"firstname": "Rocio Pol",
-					"lastname": "Esteban",
-					"localized-type": "Auteur",
+					"full": "Wha-Ping Chen",
+					"firstname": "Wha-Ping",
+					"lastname": "Chen",
 					"creatortype": "person"
 				},
 				{
-					"full": "Carl Waffle",
-					"lastname": "Carl Waffle",
-					"localized-type": "Illustrator",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2015",
-			"publisher": ["[KGVG], [Rijen], [2015]"],
-			"subject-topical": ["Voeding"],
-			"languages": ["Nederlands"],
-			"summaries": [
-				"Wist je dat kersen helpen tegen spierpijn? En dat je van paprika goed groeit? Informatie over allerlei soorten groente en fruit. Met stripachtige kleurenillustraties, kleine kleurenfoto's en tekst op rijm. Vanaf ca. 8 t/m 12 jaar."
-			],
-			"description": [
-				"96 ongenummerde pagina's",
-				"96 ongenummerde pagina's: gekleurde illustraties ; 15 × 21 cm + 1 poster + 10 stickervellen (800 stickers)"
-			],
-			"note": "Omslagtitel",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "kids gezonde voeding gids",
-						"key2": "rocio pol esteban",
-						"cnt": "1",
-						"value": "5FA9B6C779F360A0"
-					}
-				]
-			},
-			"siso": ["J628.1"]
-		},
-		{
-			"id": "|oba-catalogus|165857",
-			"frabl": {
-				"key1": "voeding als maatschappelijk verschijnsel",
-				"key2": "apden hartog jgajhautvast",
-				"cnt": "1",
-				"value": "32F1D35902F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/A-P-den-Hartog/Voeding-als-maatschappelijk-verschijnsel/Boek/?itemid=%7coba-catalogus%7c165857",
-			"titles": [
-				"Voeding als maatschappelijk verschijnsel",
-				"Voeding als maatschappelijk verschijnsel / onder redactie van A.P. den Hartog ; met medew. van J.G.A.J. Hautvast ... [et al.]"
-			],
-			"isbn": ["9031305243 :"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=82309541X&isbn=9789031305247&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/82309541X&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["A.P. den Hartog", "J.G.A.J. Hautvast"],
-			"authorsDetailed": [
-				{
-					"full": "A.P. den Hartog",
-					"lastname": "A.P. den Hartog",
+					"full": "Joost Coopmans",
+					"lastname": "Joost Coopmans",
 					"creatortype": "organization"
 				},
 				{
-					"full": "J.G.A.J. Hautvast",
-					"lastname": "J.G.A.J. Hautvast",
+					"full": "Jan Scholten",
+					"lastname": "Jan Scholten",
+					"creatortype": "organization"
+				},
+				{
+					"full": "Anneke van der Putte",
+					"lastname": "Anneke van der Putte",
 					"creatortype": "organization"
 				}
 			],
-			"year": "1982",
-			"publisher": ["Utrecht", "Bohn, Scheltema & Holkema, [etc.], 1982"],
-			"subject-topical": ["Voeding", "Sociologische aspecten"],
+			"year": "1996",
+			"year": "1996",
+			"publisher": ["Stichting Educatieve Omroep Teleac, Utrecht, cop. 1996"],
+			"subject-topical": ["Startende ondernemingen"],
 			"languages": ["Nederlands"],
-			"summaries": [
-				"Beschrijving van sociale achtergronden van voedselpatronen in het algemeen, in Nederland en in ontwikkelingslanden, waarbij beleidsaanbevelingen"
-			],
-			"description": ["IX, 307 p", "IX, 307 p: ill ; 22 cm"],
-			"note": "Met lit. opg., index",
+			"summaries": ["Handleiding voor startende ondernemers."],
+			"description": ["XIV, 226 p", "XIV, 226 p: ill., foto's ; 31 cm + bijl"],
+			"note": "Uitg. in samenw. met ABN-AMRO Bank, KPMG, Instituut Midden- en Kleinbedrijf Nederland",
+			"note": "Met reg",
 			"undup": {
 				"alsoAvailableAsCount": "0",
 				"items": [
 					{
-						"key1": "voeding als maatschappelijk verschijnsel",
-						"key2": "apden hartog jgajhautvast",
+						"key1": "een eigen onderneming",
+						"key2": "wha ping chen",
 						"cnt": "1",
-						"value": "32F1D35902F360A0"
+						"value": "48A97781DCF360A0"
 					}
 				]
 			},
-			"siso": ["628"]
+			"siso": ["360.9"]
 		},
 		{
-			"id": "|oba-catalogus|1116400",
+			"id": "|oba-catalogus|81860",
 			"frabl": {
-				"key1": "alles over sport en voeding inclusief dagmenu s en recepten",
-				"key2": "voedingscentrum",
-				"cnt": "2",
-				"value": "54EDFBA140F360A0"
+				"key1": "onderneming en effecten",
+				"key2": "scjjkortmann",
+				"cnt": "1",
+				"value": "461B7CE468F360A0"
 			},
-			"detailLink": "http://zoeken.oba.nl/detail/Voedingscentrum/Alles-over-sport-en-voeding-inclusief/Boek/?itemid=%7coba-catalogus%7c1116400",
+			"detailLink": "http://zoeken.oba.nl/detail/S-C-J-J-Kortmann/Onderneming-en-effecten/Boek/?itemid=%7coba-catalogus%7c81860",
 			"titles": [
-				"Alles over sport en voeding : inclusief dagmenu's en recepten",
-				"Alles over sport en voeding : inclusief dagmenu's en recepten / Voedingscentrum"
+				"Onderneming en effecten",
+				"Onderneming en effecten / onder red. van S.C.J.J. Kortmann ... [et al.]"
 			],
-			"isbn": ["=9789051770520"],
+			"isbn": ["9027149690 (geb.)"],
 			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=375903348&isbn=9789051770520&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/375903348&token=c1322402"
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=175809542&isbn=9789027149695&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/175809542&token=c1322402"
 			],
 			"formats": [
 				{
 					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
 				}
 			],
-			"authors": ["Voedingscentrum"],
+			"authors": ["S.C.J.J. Kortmann"],
 			"authorsDetailed": [
 				{
-					"full": "Voedingscentrum",
-					"lastname": "Voedingscentrum",
-					"creatortype": "unknown"
+					"full": "S.C.J.J. Kortmann",
+					"lastname": "S.C.J.J. Kortmann",
+					"creatortype": "organization"
 				}
 			],
-			"year": "2014",
-			"publisher": ["Stichting Voedingscentrum Nederland, Den Haag, [2014]"],
-			"subject-topical": ["Voeding", "Sport"],
+			"year": "1998",
+			"year": "1998",
+			"publisher": ["W.E.J. Tjeenk Willink, Deventer, 1998"],
+			"subject-topical": ["Effecten", "Juridische aspecten"],
 			"languages": ["Nederlands"],
-			"summaries": ["Beknopte informatie over sporten en gezond eten."],
-			"description": ["130 pagina's", "130 pagina's: illustraties ; 22 cm"],
-			"note": "Op omslag: Voedingscentrum, eerlijk over eten",
+			"description": ["XXI, 700 p", "XXI, 700 p ; 25 cm"],
+			"note": "Omslag vermeldt: Onderzoekcentrum Onderneming & Recht",
+			"note": "Met lit. opg",
 			"series": [
 				{
-					"text": "Weet wat je eet"
+					"text": "Serie onderneming en recht"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "onderneming en effecten",
+						"key2": "scjjkortmann",
+						"cnt": "1",
+						"value": "461B7CE468F360A0"
+					}
+				]
+			},
+			"siso": ["345.7"]
+		},
+		{
+			"id": "|oba-catalogus|456083",
+			"frabl": {
+				"key1": "ondernemen binnen de onderneming essenties van organisaties",
+				"key2": "mathieu weggeman",
+				"cnt": "2",
+				"value": "6B72D1E3BBF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Mathieu-Weggeman/Ondernemen-binnen-de-onderneming-essenties/Boek/?itemid=%7coba-catalogus%7c456083",
+			"titles": [
+				"Ondernemen binnen de onderneming : essenties van organisaties",
+				"Ondernemen binnen de onderneming : essenties van organisaties / Mathieu Weggeman, Gert Wijnen, Rudy Kor"
+			],
+			"isbn": ["9026726066"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=16178111X&isbn=9789026726064&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/16178111X&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Mathieu Weggeman", "Gert Wijnen", "Rudy Kor"],
+			"authorsDetailed": [
+				{
+					"full": "Mathieu Weggeman",
+					"firstname": "Mathieu",
+					"lastname": "Weggeman",
+					"creatortype": "person"
+				},
+				{
+					"full": "Gert Wijnen",
+					"lastname": "Gert Wijnen",
+					"creatortype": "organization"
+				},
+				{
+					"full": "Rudy Kor",
+					"lastname": "Rudy Kor",
+					"creatortype": "organization"
+				}
+			],
+			"year": "1997",
+			"year": "1997",
+			"publisher": ["Kluwer BedrijfsInformatie, Deventer, 1997"],
+			"subject-topical": ["Management"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Gids voor ondernemers waarin gedetailleerd en praktijkgericht een integraal ondernemingsmodel wordt behandeld."
+			],
+			"description": ["294 p", "294 p: fig ; 24 cm"],
+			"note": "Met lit. opg., reg",
+			"note": "Oorspr. titel:",
+			"series": [
+				{
+					"text": "Management en organisatie"
 				}
 			],
 			"undup": {
 				"alsoAvailableAsCount": "2",
 				"items": [
 					{
-						"key1": "alles over sport en voeding inclusief dagmenu s en recepten",
-						"key2": "voedingscentrum",
+						"key1": "ondernemen binnen de onderneming essenties van organisaties",
+						"key2": "mathieu weggeman",
 						"cnt": "2",
-						"value": "54EDFBA140F360A0"
+						"value": "6B72D1E3BBF360A0"
 					}
 				]
 			},
-			"siso": ["628.44"]
+			"siso": ["366.4"]
 		},
 		{
-			"id": "|oba-catalogus|1125619",
+			"id": "|oba-catalogus|83339",
 			"frabl": {
-				"key1": "voeding gedrag van adhd tot zinloos geweld 60 jaar research",
-				"key2": "gert eschuitemaker",
+				"key1": "onderneming maatschappij op zoek naar vertrouwen",
+				"key2": "jpbalkenende",
 				"cnt": "1",
-				"value": "1F7DE8AEB9F360A0"
+				"value": "316B7CFF37F360A0"
 			},
-			"detailLink": "http://zoeken.oba.nl/detail/Gert-E-Schuitemaker/Voeding-gedrag-van-ADHD-tot-zinloos-geweld/Boek/?itemid=%7coba-catalogus%7c1125619",
+			"detailLink": "http://zoeken.oba.nl/detail/J-P-Balkenende/Onderneming-maatschappij-op-zoek-naar/Boek/?itemid=%7coba-catalogus%7c83339",
 			"titles": [
-				"Voeding & gedrag : van ADHD tot zinloos geweld : 60 jaar research",
-				"Voeding & gedrag : van ADHD tot zinloos geweld : 60 jaar research / Dr. Gert E. Schuitemaker"
+				"Onderneming & maatschappij : op zoek naar vertrouwen",
+				"Onderneming & maatschappij : op zoek naar vertrouwen / onder red. van Jan Peter Balkenende ... [et al.]"
 			],
-			"isbn": ["=9789076161921"],
+			"isbn": ["9023238907"],
 			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383893771&isbn=9789076161921&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383893771&token=c1322402"
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=242817947&isbn=9789023238904&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/242817947&token=c1322402"
 			],
 			"formats": [
 				{
 					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
 				}
 			],
-			"authors": ["Gert E. Schuitemaker", "Toine de Graaf"],
+			"authors": ["J.P. Balkenende"],
 			"authorsDetailed": [
 				{
-					"full": "Gert E. Schuitemaker",
-					"firstname": "Gert E.",
-					"lastname": "Schuitemaker",
+					"full": "J.P. Balkenende",
+					"lastname": "J.P. Balkenende",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2003",
+			"year": "2003",
+			"publisher": ["Koninklijke van Gorcum, Assen, 2003"],
+			"subject-topical": ["Maatschappelijk verantwoord ondernemen"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Beschouwingen vanuit verschillende invalshoeken over de maatschappelijke verantwoordelijkheden van ondernemingen."
+			],
+			"description": ["IX, 360 p", "IX, 360 p: ill ; 24 cm"],
+			"note": "Met lit. opg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "onderneming maatschappij op zoek naar vertrouwen",
+						"key2": "jpbalkenende",
+						"cnt": "1",
+						"value": "316B7CFF37F360A0"
+					}
+				]
+			},
+			"siso": ["351.3"]
+		},
+		{
+			"id": "|oba-catalogus|1120391",
+			"frabl": {
+				"key1": "de juridische organisatie van de onderneming",
+				"key2": "afmdorresteijn",
+				"cnt": "2",
+				"value": "6D7F29554DF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/A-F-M-Dorresteijn/De-juridische-organisatie-van-de-onderneming/Boek/?itemid=%7coba-catalogus%7c1120391",
+			"titles": [
+				"De juridische organisatie van de onderneming",
+				"De juridische organisatie van de onderneming / prof. mr. A.F.M. Dorresteijn, dr. R.H. van het Kaar"
+			],
+			"isbn": ["=9789013114065"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=353247391&isbn=9789013114065&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/353247391&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["A.F.M. Dorresteijn", "R.H. van het Kaar"],
+			"authorsDetailed": [
+				{
+					"full": "A.F.M. Dorresteijn",
+					"firstname": "A.F.M.",
+					"lastname": "Dorresteijn",
 					"localized-type": "Auteur",
 					"creatortype": "person"
 				},
 				{
-					"full": "Toine de Graaf",
-					"lastname": "Toine de Graaf",
-					"localized-type": "Medewerker",
+					"full": "R.H. van het Kaar",
+					"lastname": "R.H. van het Kaar",
+					"localized-type": "Auteur",
 					"creatortype": "organization"
 				}
 			],
 			"year": "2014",
-			"publisher": ["Ortho Communications & Science BV, [Gendringen], [2014]"],
-			"subject-topical": ["Voeding", "Gedrag"],
-			"languages": ["Nederlands"],
-			"summaries": ["Overzicht van de invloed van voedsel op de gezondheid."],
-			"description": ["95 pagina's", "95 pagina's ; 20 cm"],
-			"note": "Met literatuuropgave, register",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "voeding gedrag van adhd tot zinloos geweld 60 jaar research",
-						"key2": "gert eschuitemaker",
-						"cnt": "1",
-						"value": "1F7DE8AEB9F360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1162443",
-			"frabl": {
-				"key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-				"key2": "marjolein dubbers",
-				"cnt": "1",
-				"value": "5B55C936B0F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Marjolein-Dubbers/Het-energieke-vrouwen-voedingskompas/Boek/?itemid=%7coba-catalogus%7c1162443",
-			"titles": [
-				"Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven",
-				"Het energieke vrouwen voedingskompas : verander je voeding, verander je hormonen, verander je leven / Marjolein Dubbers"
-			],
-			"isbn": ["=9789021563732", "=9789021563749"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=405033354&isbn=9789021563732&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/405033354&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Marjolein Dubbers", "Hester Bruning"],
-			"authorsDetailed": [
-				{
-					"full": "Marjolein Dubbers",
-					"firstname": "Marjolein",
-					"lastname": "Dubbers",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Hester Bruning",
-					"lastname": "Hester Bruning",
-					"localized-type": "Redacteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2016",
-			"publisher": ["Kosmos Uitgevers, Utrecht, [2016]"],
-			"subject-topical": ["Vrouwen", "Gezondheid", "Hormonen", "Voedingsleer"],
-			"languages": ["Nederlands"],
-			"description": ["287 pagina's", "287 pagina's: illustraties ; 24 cm"],
-			"note": "Met literatuuropgave, register",
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "het energieke vrouwen voedingskompas verander je voeding verander je hormonen verander je leven",
-						"key2": "marjolein dubbers",
-						"cnt": "1",
-						"value": "5B55C936B0F360A0"
-					}
-				]
-			},
-			"siso": ["628.44"]
-		},
-		{
-			"id": "|oba-catalogus|618705",
-			"frabl": {
-				"key1": "mens voeding voedsel voeding en gezondheid voedingsbehoeften voedselkeuze voedingsvoorlichting voedselveiligheid voeding in nederland",
-				"key2": "fhvan der boom binkhorst ehartman apden hartog",
-				"cnt": "1",
-				"value": "551F9AA82EF360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/F-H-van-der-Boom-Binkhorst/Mens-voeding-voedsel-voeding-en/Boek/?itemid=%7coba-catalogus%7c618705",
-			"titles": [
-				"Mens & voeding : voedsel, voeding en gezondheid, voedingsbehoeften, voedselkeuze, voedingsvoorlichting, voedselveiligheid, voeding in Nederland",
-				"Mens & voeding : voedsel, voeding en gezondheid, voedingsbehoeften, voedselkeuze, voedingsvoorlichting, voedselveiligheid, voeding in Nederland / F.H. van der Boom-Binkhorst ... [et al.]"
-			],
-			"isbn": ["905574560X"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=296391778&isbn=9789055745609&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/296391778&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": [
-				"F.H. van der Boom-Binkhorst",
-				"E. Hartman",
-				"A.P. den Hartog"
-			],
-			"authorsDetailed": [
-				{
-					"full": "F.H. van der Boom-Binkhorst",
-					"lastname": "F.H. van der Boom-Binkhorst",
-					"creatortype": "organization"
-				},
-				{
-					"full": "E. Hartman",
-					"lastname": "E. Hartman",
-					"creatortype": "organization"
-				},
-				{
-					"full": "A.P. den Hartog",
-					"lastname": "A.P. den Hartog",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2006",
-			"publisher": ["HBuitgevers, Baarn, 2006"],
-			"subject-topical": ["Voedingsleer"],
-			"languages": ["Nederlands"],
-			"summaries": ["Studieboek voor het hoger beroepsonderwijs."],
-			"description": ["XII, 348 p", "XII, 348 p: ill., krt ; 28 cm"],
-			"undup": {
-				"alsoAvailableAsCount": "0",
-				"items": [
-					{
-						"key1": "mens voeding voedsel voeding en gezondheid voedingsbehoeften voedselkeuze voedingsvoorlichting voedselveiligheid voeding in nederland",
-						"key2": "fhvan der boom binkhorst ehartman apden hartog",
-						"cnt": "1",
-						"value": "551F9AA82EF360A0"
-					}
-				]
-			},
-			"siso": ["628.4"]
-		},
-		{
-			"id": "|oba-catalogus|1162586",
-			"frabl": {
-				"key1": "voeding en dementie gezondheid en genieten in 1 recept",
-				"key2": "jeroen wapenaar",
-				"cnt": "1",
-				"value": "461731F0D2F360A0"
-			},
-			"detailLink": "http://zoeken.oba.nl/detail/Jeroen-Wapenaar/Voeding-en-dementie-gezondheid-en-genieten/Boek/?itemid=%7coba-catalogus%7c1162586",
-			"titles": [
-				"Voeding en dementie : gezondheid en genieten in 1 recept",
-				"Voeding en dementie : gezondheid en genieten in 1 recept / Jeroen Wapenaar, Ondine van de Rest"
-			],
-			"isbn": ["=9789086862894"],
-			"coverimages": [
-				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=407073663&isbn=9789086862894&lid=&aut=&ti=&size=70",
-				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/407073663&token=c1322402"
-			],
-			"formats": [
-				{
-					"text": "Boek",
-					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220314.000914"
-				}
-			],
-			"authors": ["Jeroen Wapenaar", "Ondine van de Rest"],
-			"authorsDetailed": [
-				{
-					"full": "Jeroen Wapenaar",
-					"firstname": "Jeroen",
-					"lastname": "Wapenaar",
-					"localized-type": "Auteur",
-					"creatortype": "person"
-				},
-				{
-					"full": "Ondine van de Rest",
-					"lastname": "Ondine van de Rest",
-					"localized-type": "Auteur",
-					"creatortype": "organization"
-				}
-			],
-			"year": "2016",
-			"publisher": ["Wageningen Academic Publishers, Wageningen, 2016"],
-			"subject-topical": ["Voeding", "Dementerenden"],
+			"year": "2014",
+			"publisher": ["Kluwer, a Wolters Kluwer business, Deventer, 2014"],
+			"subject-topical": ["Ondernemingsrecht", "Nederland"],
 			"languages": ["Nederlands"],
 			"summaries": [
-				"Mensen met dementie hebben soms geen zin meer in eten en drinken, dit boek laat met praktische aanpassingen zien hoe je het toch een positieve wending kunt geven."
+				"Handboek over de verdeling van juridische bevoegdheden binnen een onderneming."
 			],
-			"description": ["152 pagina's", "152 pagina's: illustraties ; 21 cm"],
-			"note": "Met literatuuropgave",
+			"description": ["XIII, 275 pagina's", "XIII, 275 pagina's ; 25 cm"],
+			"note": "Met literatuuropgave, register",
+			"series": [
+				{
+					"text": "Fiscale studieserie, [ISSN 1572-4239]"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "2",
+				"items": [
+					{
+						"key1": "de juridische organisatie van de onderneming",
+						"key2": "afmdorresteijn",
+						"cnt": "2",
+						"value": "6D7F29554DF360A0"
+					}
+				]
+			},
+			"siso": ["397.2"]
+		},
+		{
+			"id": "|oba-catalogus|39580",
+			"frabl": {
+				"key1": "de hervorming van de onderneming herziening van het vennootschapsrecht in verband met medezeggenschap in en toezicht op de onderneming",
+				"key2": "max van der stoel",
+				"cnt": "1",
+				"value": "67AD56F8AF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Max-van-der-Stoel/De-hervorming-van-de-onderneming-herziening/Boek/?itemid=%7coba-catalogus%7c39580",
+			"titles": [
+				"De hervorming van de onderneming : herziening van het vennootschapsrecht in verband met medezeggenschap in en toezicht op de onderneming",
+				"De hervorming van de onderneming : herziening van het vennootschapsrecht in verband met medezeggenschap in en toezicht op de onderneming / [Commissie-rapporteur: M. van der Stoel]"
+			],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=055892809&isbn=&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/055892809&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Max van der Stoel"],
+			"authorsDetailed": [
+				{
+					"full": "Max van der Stoel",
+					"lastname": "Max van der Stoel",
+					"creatortype": "organization"
+				}
+			],
+			"year": "1959",
+			"year": "1959",
+			"publisher": ["Arbeiderspers, Amsterdam, 1959"],
+			"subject-topical": ["Vennootschapsrecht", "Medezeggenschap"],
+			"languages": ["Nederlands"],
+			"description": ["175 p", "175 p ; 21 cm"],
+			"note": "Voorz. v.d commissie: J. Valkhoff",
+			"series": [
+				{
+					"text": "Maatschappelijke vraagstukken"
+				}
+			],
 			"undup": {
 				"alsoAvailableAsCount": "0",
 				"items": [
 					{
-						"key1": "voeding en dementie gezondheid en genieten in 1 recept",
-						"key2": "jeroen wapenaar",
+						"key1": "de hervorming van de onderneming herziening van het vennootschapsrecht in verband met medezeggenschap in en toezicht op de onderneming",
+						"key2": "max van der stoel",
 						"cnt": "1",
-						"value": "461731F0D2F360A0"
+						"value": "67AD56F8AF360A0"
 					}
 				]
 			},
-			"siso": ["606.15"]
+			"siso": ["397.2"]
+		},
+		{
+			"id": "|oba-catalogus|954208",
+			"frabl": {
+				"key1": "het ondernemingsplan van idee tot succesvolle onderneming",
+				"key2": "",
+				"cnt": "1",
+				"value": "66E941319F1360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Het-ondernemingsplan-van-idee-tot/Boek/?itemid=%7coba-catalogus%7c954208",
+			"titles": [
+				"Het ondernemingsplan : van idee tot succesvolle onderneming",
+				"Het ondernemingsplan : van idee tot succesvolle onderneming / [red.: Taalwerkplaats]"
+			],
+			"isbn": ["9789052617626"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=323162444&isbn=9789052617626&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/323162444&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"year": "2010",
+			"year": "2010",
+			"publisher": ["Academic Service, Den Haag, cop. 2010"],
+			"subject-topical": ["Startende ondernemingen", "Bedrijfsorganisatie"],
+			"languages": ["Nederlands"],
+			"summaries": ["Praktische adviezen voor startende ondernemers."],
+			"description": ["VII, 132 p", "VII, 132 p: ill ; 24 cm"],
+			"note": "Met lit. opg., reg",
+			"series": [
+				{
+					"text": "Praktijkgidsen voor manager en ondernemer"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "het ondernemingsplan van idee tot succesvolle onderneming",
+						"key2": "",
+						"cnt": "1",
+						"value": "66E941319F1360A0"
+					}
+				]
+			},
+			"siso": ["360.9"]
+		},
+		{
+			"id": "|oba-catalogus|1065472",
+			"frabl": {
+				"key1": "ondernemen is doen leerwerkboek voor het schrijven van een ondernemingsplan en het beheren van een onderneming",
+				"key2": "lorraine vesterink",
+				"cnt": "1",
+				"value": "748DF04456F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Lorraine-Vesterink/Ondernemen-is-doen-leerwerkboek-voor-het/Boek/?itemid=%7coba-catalogus%7c1065472",
+			"titles": [
+				"Ondernemen is doen : leerwerkboek voor het schrijven van een ondernemingsplan en het beheren van een onderneming",
+				"Ondernemen is doen : leerwerkboek voor het schrijven van een ondernemingsplan en het beheren van een onderneming / Lorraine Vesterink"
+			],
+			"isbn": ["9789490998417"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=339631538&isbn=9789490998417&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/339631538&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Lorraine Vesterink"],
+			"authorsDetailed": [
+				{
+					"full": "Lorraine Vesterink",
+					"firstname": "Lorraine",
+					"lastname": "Vesterink",
+					"creatortype": "person"
+				}
+			],
+			"year": "2012",
+			"year": "2012",
+			"publisher": ["Deviant, Amersfoort, 2012"],
+			"subject-topical": ["Startende ondernemingen", "Ondernemerschap"],
+			"languages": ["Nederlands"],
+			"summaries": ["Studieboek op MBO niveau."],
+			"description": ["192 p", "192 p: ill ; 30 cm"],
+			"note": "Competentiegerichte methode die mbo-breed inzetbaar is. - Sluit aan bij de zeven werkprocessen van de Certificeerbare Eenheid Ondernemerschap. - Met reg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "ondernemen is doen leerwerkboek voor het schrijven van een ondernemingsplan en het beheren van een onderneming",
+						"key2": "lorraine vesterink",
+						"cnt": "1",
+						"value": "748DF04456F360A0"
+					}
+				]
+			},
+			"siso": ["360.9"]
+		},
+		{
+			"id": "|oba-catalogus|1097104",
+			"frabl": {
+				"key1": "toezicht en de maatschappelijke onderneming balanceren in het krachtenveld",
+				"key2": "willem van leeuwen",
+				"cnt": "1",
+				"value": "72BEC6ECDEF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Willem-van-Leeuwen/Toezicht-en-de-maatschappelijke-onderneming/Boek/?itemid=%7coba-catalogus%7c1097104",
+			"titles": [
+				"Toezicht en de maatschappelijke onderneming : balanceren in het krachtenveld",
+				"Toezicht en de maatschappelijke onderneming : balanceren in het krachtenveld / Willem van Leeuwen en Paul Simons"
+			],
+			"isbn": ["9789023249375"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=340313382&isbn=9789023249375&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/340313382&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Willem van Leeuwen", "Paul Simons", "Leo Lenssen"],
+			"authorsDetailed": [
+				{
+					"full": "Willem van Leeuwen",
+					"firstname": "Willem",
+					"lastname": "Leeuwen",
+					"creatortype": "person"
+				},
+				{
+					"full": "Paul Simons",
+					"lastname": "Paul Simons",
+					"creatortype": "organization"
+				},
+				{
+					"full": "Leo Lenssen",
+					"lastname": "Leo Lenssen",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2012",
+			"year": "2012",
+			"publisher": ["Koninklijke Van Gorcum, Assen, 2012"],
+			"subject-topical": ["Maatschappelijke ondernemingen"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Handvatten voor het leggen van verbindingen en reflectie op de eigen rol en positie van het krachtenveld waarin de maatschappelijke onderneming functioneert."
+			],
+			"description": ["VIII, 244 p", "VIII, 244 p: fig ; 24 cm"],
+			"note": "Met lit. opg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "toezicht en de maatschappelijke onderneming balanceren in het krachtenveld",
+						"key2": "willem van leeuwen",
+						"cnt": "1",
+						"value": "72BEC6ECDEF360A0"
+					}
+				]
+			},
+			"siso": ["351.31"]
+		},
+		{
+			"id": "|oba-catalogus|479376",
+			"frabl": {
+				"key1": "de onderneming her uitgevonden",
+				"key2": "john naisbitt",
+				"cnt": "1",
+				"value": "2BD643E5B9F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/John-Naisbitt/De-onderneming-her-uitgevonden/Boek/?itemid=%7coba-catalogus%7c479376",
+			"titles": [
+				"De onderneming her-uitgevonden",
+				"De onderneming her-uitgevonden / John Naisbitt, Patricia Aburdene ; [vert. uit het Engels door T. Wageman]"
+			],
+			"isbn": ["9027461899"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=863163807&isbn=9789027461896&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/863163807&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["John Naisbitt", "Patricia Aburdene", "T. Wageman"],
+			"authorsDetailed": [
+				{
+					"full": "John Naisbitt",
+					"firstname": "John",
+					"lastname": "Naisbitt",
+					"creatortype": "person"
+				},
+				{
+					"full": "Patricia Aburdene",
+					"lastname": "Patricia Aburdene",
+					"creatortype": "organization"
+				},
+				{
+					"full": "T. Wageman",
+					"lastname": "T. Wageman",
+					"creatortype": "organization"
+				}
+			],
+			"year": "1986",
+			"year": "1986",
+			"publisher": ["Intermediair, [S.l.], 1986"],
+			"subject-topical": ["Ondernemingsbeleid"],
+			"languages": ["Nederlands", "Engels"],
+			"summaries": [
+				"Beschrijving van de gevolgen die de ontwikkeling van de informatie-maatschappij zal hebben op de positie van de werknemer en de vorm van de onderneming."
+			],
+			"description": ["261 p", "261 p: ill ; 21 cm"],
+			"series": [
+				{
+					"text": "Intermediair paperback"
+				},
+				{
+					"text": "Intermediair paperback"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de onderneming her uitgevonden",
+						"key2": "john naisbitt",
+						"cnt": "1",
+						"value": "2BD643E5B9F360A0"
+					}
+				]
+			},
+			"siso": ["366.4"]
+		},
+		{
+			"id": "|oba-catalogus|292506",
+			"frabl": {
+				"key1": "de multinationale onderneming",
+				"key2": "dkeuning",
+				"cnt": "1",
+				"value": "8C0B5F99AF36000"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/D-Keuning/De-multinationale-onderneming/Boek/?itemid=%7coba-catalogus%7c292506",
+			"titles": [
+				"De multinationale onderneming",
+				"De multinationale onderneming / D. Keuning"
+			],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=841416478&isbn=&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/841416478&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["D. Keuning"],
+			"authorsDetailed": [
+				{
+					"full": "D. Keuning",
+					"firstname": "D.",
+					"lastname": "Keuning",
+					"creatortype": "person"
+				}
+			],
+			"year": "1972",
+			"year": "218m",
+			"publisher": ["Stichting IVIO, Lelystad, 1972 - p. 18cm"],
+			"series": [
+				{
+					"text": "AO-reeks . no. 1436"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de multinationale onderneming",
+						"key2": "dkeuning",
+						"cnt": "1",
+						"value": "8C0B5F99AF36000"
+					}
+				]
+			}
+		},
+		{
+			"id": "|oba-catalogus|228703",
+			"frabl": {
+				"key1": "crisis in de onderneming",
+				"key2": "robert jblom",
+				"cnt": "1",
+				"value": "2B476F9209F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Robert-J-Blom/Crisis-in-de-onderneming/Boek/?itemid=%7coba-catalogus%7c228703",
+			"titles": [
+				"Crisis in de onderneming",
+				"Crisis in de onderneming / Robert J. Blom"
+			],
+			"isbn": ["9075348460 (geb.)"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=271294531&isbn=9789075348460&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/271294531&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Robert J. Blom"],
+			"authorsDetailed": [
+				{
+					"full": "Robert J. Blom",
+					"firstname": "Robert J.",
+					"lastname": "Blom",
+					"creatortype": "person"
+				}
+			],
+			"year": "2005",
+			"year": "2005",
+			"publisher": ["Graydon Nederland, Amsterdam, cop. 2005"],
+			"subject-topical": ["Crises", "Bedrijven"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Verslag van een onderzoek naar de oorzaken en gevolgen van bedrijfscrisissen, met name in het midden- en kleinbedrijf."
+			],
+			"description": ["300 p", "300 p: ill ; 22 cm"],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "crisis in de onderneming",
+						"key2": "robert jblom",
+						"cnt": "1",
+						"value": "2B476F9209F360A0"
+					}
+				]
+			},
+			"siso": ["366.4"]
+		},
+		{
+			"id": "|oba-catalogus|943607",
+			"frabl": {
+				"key1": "de ontwortelde onderneming ondernemingen overgeleverd aan financiers",
+				"key2": "arnoud waboot",
+				"cnt": "1",
+				"value": "4D81B8756DF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Arnoud-W-A-Boot/De-ontwortelde-onderneming-ondernemingen/Boek/?itemid=%7coba-catalogus%7c943607",
+			"titles": [
+				"De ontwortelde onderneming : ondernemingen overgeleverd aan financiers?",
+				"De ontwortelde onderneming : ondernemingen overgeleverd aan financiers? / Arnoud W.A. Boot"
+			],
+			"isbn": ["9789023245414"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=321285298&isbn=9789023245414&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/321285298&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Arnoud W.A. Boot"],
+			"authorsDetailed": [
+				{
+					"full": "Arnoud W.A. Boot",
+					"firstname": "Arnoud W.A.",
+					"lastname": "Boot",
+					"creatortype": "person"
+				}
+			],
+			"year": "2009",
+			"year": "2009",
+			"publisher": ["Koninklijke Van Gorcum, Assen, 2009"],
+			"subject-topical": ["Bedrijven", "Financiering"],
+			"languages": ["Nederlands"],
+			"description": ["VIII, 174 p", "VIII, 174 p: ill ; 24 cm"],
+			"note": "Studie en publicatie uitgevoerd in opdracht van Stichting Management Studies. - Met lit. opg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de ontwortelde onderneming ondernemingen overgeleverd aan financiers",
+						"key2": "arnoud waboot",
+						"cnt": "1",
+						"value": "4D81B8756DF360A0"
+					}
+				]
+			},
+			"siso": ["362"]
+		},
+		{
+			"id": "|oba-catalogus|432494",
+			"frabl": {
+				"key1": "de flexibele onderneming strategieen voor succesvol concurreren",
+				"key2": "henk wvolberda",
+				"cnt": "1",
+				"value": "21F192662CF360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Henk-W-Volberda/De-flexibele-onderneming-strategieen-voor/Boek/?itemid=%7coba-catalogus%7c432494",
+			"titles": [
+				"De flexibele onderneming : strategieën voor succesvol concurreren",
+				"De flexibele onderneming : strategieën voor succesvol concurreren / Henk W. Volberda"
+			],
+			"isbn": ["9014078250"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=260606928&isbn=9789014078250&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/260606928&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Henk W. Volberda"],
+			"authorsDetailed": [
+				{
+					"full": "Henk W. Volberda",
+					"firstname": "Henk W.",
+					"lastname": "Volberda",
+					"creatortype": "person"
+				}
+			],
+			"year": "2004",
+			"year": "2004",
+			"publisher": ["Kluwer, Deventer, cop. 2004"],
+			"subject-topical": ["Concurrentie (economie)", "Strategisch management"],
+			"languages": ["Nederlands"],
+			"description": ["401 p", "401 p: ill ; 24 cm + cd-rom"],
+			"note": "Met lit. opg., reg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de flexibele onderneming strategieen voor succesvol concurreren",
+						"key2": "henk wvolberda",
+						"cnt": "1",
+						"value": "21F192662CF360A0"
+					}
+				]
+			},
+			"siso": ["342.2"]
+		},
+		{
+			"id": "|oba-catalogus|1172078",
+			"frabl": {
+				"key1": "geef je bedrijf een kickstart klanten vinden en binden in de eerste vijf jaar van je onderneming",
+				"key2": "jolanda wicherson",
+				"cnt": "1",
+				"value": "2E2D6CB406F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Jolanda-Wicherson/Geef-je-bedrijf-een-kickstart-klanten-vinden/Boek/?itemid=%7coba-catalogus%7c1172078",
+			"titles": [
+				"Geef je bedrijf een kickstart : klanten vinden en binden in de eerste vijf jaar van je onderneming",
+				"Geef je bedrijf een kickstart : klanten vinden en binden in de eerste vijf jaar van je onderneming / Jolanda Wicherson"
+			],
+			"isbn": ["=9789492528131"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410384488&isbn=9789492528131&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410384488&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Jolanda Wicherson", "Dorine Tichelaar"],
+			"authorsDetailed": [
+				{
+					"full": "Jolanda Wicherson",
+					"firstname": "Jolanda",
+					"lastname": "Wicherson",
+					"localized-type": "Auteur",
+					"creatortype": "person"
+				},
+				{
+					"full": "Dorine Tichelaar",
+					"lastname": "Dorine Tichelaar",
+					"localized-type": "Auteur",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2017",
+			"year": "2017",
+			"publisher": ["S2uitgevers, Baarn, [2017]"],
+			"subject-topical": ["Startende ondernemingen", "Ondernemerschap"],
+			"languages": ["Nederlands"],
+			"description": ["168 pagina's", "168 pagina's: illustraties ; 24 cm"],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "geef je bedrijf een kickstart klanten vinden en binden in de eerste vijf jaar van je onderneming",
+						"key2": "jolanda wicherson",
+						"cnt": "1",
+						"value": "2E2D6CB406F360A0"
+					}
+				]
+			},
+			"siso": ["360.9"]
+		},
+		{
+			"id": "|oba-catalogus|550381",
+			"frabl": {
+				"key1": "de maatschappelijke onderneming een studie naar de noodzaak en wenselijkheid van een eigen regeling voor de maatschappelijke onderneming in het rechtspersonenrecht",
+				"key2": "hjde ru",
+				"cnt": "1",
+				"value": "7377B64065F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/H-J-de-Ru/De-maatschappelijke-onderneming-een-studie/Boek/?itemid=%7coba-catalogus%7c550381",
+			"titles": [
+				"De maatschappelijke onderneming : een studie naar de noodzaak en wenselijkheid van een eigen regeling voor de maatschappelijke onderneming in het rechtspersonenrecht",
+				"De maatschappelijke onderneming : een studie naar de noodzaak en wenselijkheid van een eigen regeling voor de maatschappelijke onderneming in het rechtspersonenrecht / door H.J. de Ru, J.L. Burggraaf, L.A.J. Spaans"
+			],
+			"isbn": ["9054545585"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=271535717&isbn=9789054545583&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/271535717&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["H.J. de Ru", "J.L. Burggraaf", "L.A.J. Spaans"],
+			"authorsDetailed": [
+				{
+					"full": "H.J. de Ru",
+					"firstname": "H.J.",
+					"lastname": "Ru",
+					"creatortype": "person"
+				},
+				{
+					"full": "J.L. Burggraaf",
+					"lastname": "J.L. Burggraaf",
+					"creatortype": "organization"
+				},
+				{
+					"full": "L.A.J. Spaans",
+					"lastname": "L.A.J. Spaans",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2005",
+			"year": "2005",
+			"publisher": ["Boom Juridische uitgevers, Den Haag, 2005"],
+			"subject-topical": ["Non-profitorganisaties"],
+			"languages": ["Nederlands"],
+			"description": ["81 p", "81 p: ill ; 25 cm"],
+			"note": "Op omslag en titelpag.: Allen & Overy special editions",
+			"note": "Met lit. opg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de maatschappelijke onderneming een studie naar de noodzaak en wenselijkheid van een eigen regeling voor de maatschappelijke onderneming in het rechtspersonenrecht",
+						"key2": "hjde ru",
+						"cnt": "1",
+						"value": "7377B64065F360A0"
+					}
+				]
+			},
+			"siso": ["397.2"]
+		},
+		{
+			"id": "|oba-catalogus|581232",
+			"frabl": {
+				"key1": "onderneming mens en samenleving sociale wetenschappen in bedrijfskundig perspectief",
+				"key2": "jprij",
+				"cnt": "1",
+				"value": "3C131C27F6F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/J-Prij/Onderneming-mens-en-samenleving-sociale/Boek/?itemid=%7coba-catalogus%7c581232",
+			"titles": [
+				"Onderneming, mens en samenleving : sociale wetenschappen in bedrijfskundig perspectief",
+				"Onderneming, mens en samenleving : sociale wetenschappen in bedrijfskundig perspectief / J. Prij, Ph. van Engeldorp Gastelaars"
+			],
+			"isbn": ["905189726X"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=167432664&isbn=9789051897265&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/167432664&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["J. Prij", "Ph. van Engeldorp Gastelaars"],
+			"authorsDetailed": [
+				{
+					"full": "J. Prij",
+					"firstname": "J.",
+					"lastname": "Prij",
+					"creatortype": "person"
+				},
+				{
+					"full": "Ph. van Engeldorp Gastelaars",
+					"lastname": "Ph. van Engeldorp Gastelaars",
+					"creatortype": "organization"
+				}
+			],
+			"year": "1998",
+			"year": "1998",
+			"publisher": ["LEMMA, Utrecht, 1998"],
+			"subject-topical": ["Sociale wetenschappen", "Bedrijfskundigen"],
+			"languages": ["Nederlands"],
+			"description": ["316 p", "316 p: ill ; 24 cm"],
+			"note": "Omslagtitel: Onderneming, mens & samenleving",
+			"note": "Met lit. opg., reg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "onderneming mens en samenleving sociale wetenschappen in bedrijfskundig perspectief",
+						"key2": "jprij",
+						"cnt": "1",
+						"value": "3C131C27F6F360A0"
+					}
+				]
+			},
+			"siso": ["300.4"]
+		},
+		{
+			"id": "|oba-catalogus|16705",
+			"frabl": {
+				"key1": "dsm een beeld van de onderneming",
+				"key2": "",
+				"cnt": "1",
+				"value": "624CAC87081360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/DSM-een-beeld-van-de-onderneming/Boek/?itemid=%7coba-catalogus%7c16705",
+			"titles": ["DSM : een beeld van de onderneming"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=100024459&isbn=&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/100024459&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"year": "1992",
+			"year": "1992",
+			"publisher": ["IVIO, Lelystad, 1992"],
+			"subject-topical": ["DSM"],
+			"languages": ["Nederlands"],
+			"description": ["16 p", "16 p: ill ; 18 cm"],
+			"series": [
+				{
+					"text": "AO"
+				}
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "dsm een beeld van de onderneming",
+						"key2": "",
+						"cnt": "1",
+						"value": "624CAC87081360A0"
+					}
+				]
+			},
+			"siso": ["385"]
+		},
+		{
+			"id": "|oba-catalogus|580679",
+			"frabl": {
+				"key1": "de westerse onderneming in ontwikkelingslanden",
+				"key2": "ejprins",
+				"cnt": "1",
+				"value": "62DAF849D9F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/E-J-Prins/De-westerse-onderneming-in-ontwikkelingslanden/Boek/?itemid=%7coba-catalogus%7c580679",
+			"titles": [
+				"De westerse onderneming in ontwikkelingslanden",
+				"De westerse onderneming in ontwikkelingslanden / E.J. Prins"
+			],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=852566166&isbn=&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/852566166&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["E.J. Prins"],
+			"authorsDetailed": [
+				{
+					"full": "E.J. Prins",
+					"firstname": "E.J.",
+					"lastname": "Prins",
+					"creatortype": "person"
+				}
+			],
+			"year": "1967",
+			"year": "1967",
+			"publisher": ["Kluwer, Deventer, 1967"],
+			"subject-topical": ["Ontwikkelingslanden", "Bedrijven", "West-Europa"],
+			"languages": ["Nederlands"],
+			"description": ["viii, 84 p", "viii, 84 p ; 23 cm"],
+			"note": "Ook verschenen als proefschrift voor de Rijksuniversiteit te Utrecht in 1967",
+			"note": "Met index",
+			"note": "Met samenvatting in het Engels",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de westerse onderneming in ontwikkelingslanden",
+						"key2": "ejprins",
+						"cnt": "1",
+						"value": "62DAF849D9F360A0"
+					}
+				]
+			},
+			"siso": ["354.7"]
 		}
 	],
 	"results": [
