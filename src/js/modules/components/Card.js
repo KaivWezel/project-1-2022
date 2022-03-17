@@ -27,4 +27,11 @@ export const resultCard = (data) => {
 	const desc = document.createElement("p");
 	const link = document.createElement("a");
 	// Assign content to elements
+	title.innerText = data.titles?.[0];
+	desc.innerText = data.summaries?.[0];
+	link.href = data.detailLink;
+	link.innerText = "Bekijk";
+	// Append el's to card
+	card.append(title, desc, link);
+	return card;
 };
