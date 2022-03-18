@@ -9,15 +9,19 @@ export const activatePage = async () => {
 	const id = window.location.hash;
 	const sections = document.querySelectorAll("section");
 
+	// If hash is empty, page = home.
 	const page =
 		window.location.hash === ""
 			? document.querySelector("#home")
 			: document.querySelector(id);
 
+	// 404 page for empty id (no page)
 	const _404 = document.querySelector("#notFound");
+	// All pages
 	sections.forEach((section) => {
 		section.classList.remove("active");
 	});
+	// Check if hash is page
 	if (page) {
 		page.classList.add("active");
 	} else {
@@ -25,12 +29,11 @@ export const activatePage = async () => {
 	}
 };
 
-export const loadBooks = async () => {
-	const bookshelf = document.querySelector(".bookshelf");
+export const loadBooks = async (target) => {
 	const books = await getData(booksUrl);
 	books.forEach((book) => {
 		const card = bookCard(book);
-		Render(card, bookshelf);
+		Render(card, target);
 	});
 };
 
