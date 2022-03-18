@@ -1,16 +1,19 @@
 # Project oba
 
-<!-- Add a link to your live demo in Github Pages 🌐-->
+## 💡 Concept
 
-## Concept
+### Curated books
 
 The idea is to create a platform where young and venturous people can search for information to start their first business. Since you are new to this world, the oba has curated a list with interesting en useful books to help them start en learn their way into the businessworld.
 
-Apart from the curated list, you can search within the public learning service of the oba where different teaching materials can be found.
+### Teaching materials
+
+Apart from the curated list, you can search within the public learning service of the oba where different teaching materials can be found. You can follow lessons en use some assignments to practice your skills.
 
 ## Visuals
 
 ![Image of the concept](src/img/frontpage.png)
+![Image of the concept](src/img/searchpage.png)
 
 <!-- Maybe a table of contents here? 📚 -->
 
@@ -18,8 +21,12 @@ Apart from the curated list, you can search within the public learning service o
 
 To install this project, clone this repository to a local directory. You can open the index.html in your browsers or setup a local http-server to serve the files to your laptop.
 
-<!-- ...but how does one use this project? What are its features 🤔 -->
+`git clone https://github.com/kaivwezel/project-1-2022`
 
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
+## Wishlist
 
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
+### 💭
+
+- [ ] Make API work
+- [ ] Refine design for oba
+- [ ] Curate the lists more accurate
