@@ -47,6 +47,11 @@ h3 + p {
 	margin-left: 1rem;
 }
 
+button {
+	all: unset;
+	cursor: pointer;
+}
+
 /* =================================== */
 /* Header includes logo and navigation */
 /* =================================== */
@@ -86,8 +91,9 @@ nav form {
 	align-items: center;
 }
 
-nav form input {
+input {
 	height: 2rem;
+	padding: 0.25rem 0.5rem;
 	border: black 1px solid;
 	border-radius: 6px;
 }
@@ -190,6 +196,11 @@ section.active {
 	display: block;
 	max-width: 200px;
 	text-decoration: none;
+	transition: 0.2s ease;
+}
+
+.bookshelf a:hover {
+	transform: scale(1.1);
 }
 
 .bookshelf a:nth-last-child(n + 2) {
@@ -211,9 +222,31 @@ section.active {
 	text-align: center;
 }
 
+#searchForm {
+	width: 20rem;
+}
+
+.submit {
+	padding: 0.25rem 0.5rem;
+	background: black;
+	color: white;
+	border: 2px solid black;
+	border-radius: 4px;
+	transition: 0.2s ease;
+}
+
+.submit:hover {
+	background: white;
+	color: black;
+}
+
+.submit:active {
+	transform: scale(0.9);
+}
+
 label[for="search"] {
 	display: block;
-	margin: 1rem;
+	margin: 0.5em;
 }
 
 .searchResults article {
