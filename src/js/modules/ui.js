@@ -1,7 +1,13 @@
 import getData from "./fetch.js";
 import { bookCard, resultCard } from "./components/Card.js";
 import Render from "./Renderer.js";
-import { booksUrl, resultsUrl, endpoint } from "./variables.js";
+import {
+	booksUrl,
+	resultsUrl,
+	strategy,
+	taxes,
+	performance,
+} from "./variables.js";
 
 // TODO loader function
 
@@ -30,17 +36,25 @@ export const activatePage = async () => {
 };
 
 export const loadBooks = async (target) => {
-	const books = await getData(booksUrl);
-	books.forEach((book) => {
+	const data = await getData(booksUrl);
+	data.books.forEach((book) => {
 		const card = bookCard(book);
-		Render(card, target);
+		Render(card, strategy);
+	});
+	data.books.forEach((book) => {
+		const card = bookCard(book);
+		Render(card, taxes);
+	});
+	data.books.forEach((book) => {
+		const card = bookCard(book);
+		Render(card, performance);
 	});
 };
 
 export const searchResults = async () => {
 	const resultsList = document.querySelector(".searchResults");
-	const results = await getData(resultsUrl);
-	results.forEach((result) => {
+	const data = await getData(resultsUrl);
+	data.onderneming.forEach((result) => {
 		const card = resultCard(result);
 		Render(card, resultsList);
 	});
