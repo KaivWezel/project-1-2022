@@ -2177,5 +2177,811 @@
 				"In this collection you will find image and sound fragments about the economic cycle, together with more context and concrete teaching tips. We start from the two basic players in the economic cycle, the households and companies, in order to systematically expand to include the government, financial institutions and abroad. In this way we arrive at a complete picture of the players in our economy. View the collection Economic cycle at The Archive for Education >"
 			]
 		}
+	],
+	"taxes": [
+		{
+			"id": "|oba-catalogus|1084917",
+			"frabl": {
+				"key1": "het belastingparadijs waarom niemand hier belasting betaalt behalve u",
+				"key2": "martin van geest",
+				"cnt": "2",
+				"value": "425D78C55F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Martin-van-Geest/Het-belastingparadijs-waarom-niemand-hier/Boek/?itemid=%7coba-catalogus%7c1084917",
+			"titles": [
+				"Het belastingparadijs : waarom niemand hier belasting betaalt, behalve u",
+				"Het belastingparadijs : waarom niemand hier belasting betaalt, behalve u / Martin van Geest, Joost van Kleef en Henk Willem Smits"
+			],
+			"isbn": ["9789047005605"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=343556839&isbn=9789047005605&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/343556839&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Martin van Geest", "Joost van Kleef", "Henk Willem Smits"],
+			"authorsDetailed": [
+				{
+					"full": "Martin van Geest",
+					"firstname": "Martin",
+					"lastname": "Geest",
+					"creatortype": "person"
+				},
+				{
+					"full": "Joost van Kleef",
+					"lastname": "Joost van Kleef",
+					"creatortype": "organization"
+				},
+				{
+					"full": "Henk Willem Smits",
+					"lastname": "Henk Willem Smits",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2013",
+			"year": "2013",
+			"publisher": ["Business Contact, Amsterdam [etc.], 2013"],
+			"subject-topical": ["Belastingen", "Nederland"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Kritische journalistieke reportage over het in Nederland geldende fiscale klimaat."
+			],
+			"description": ["256 p", "256 p: ill ; 21 cm"],
+			"note": "Met lit. opg., reg",
+			"undup": {
+				"alsoAvailableAsCount": "2",
+				"items": [
+					{
+						"key1": "het belastingparadijs waarom niemand hier belasting betaalt behalve u",
+						"key2": "martin van geest",
+						"cnt": "2",
+						"value": "425D78C55F360A0"
+					}
+				]
+			},
+			"siso": ["346.2"]
+		},
+		{
+			"id": "|oba-catalogus|238311",
+			"frabl": {
+				"key1": "mantelzorg in een ontmantelde prive sfeer over het combineren van betaalde arbeid en de langdurige en intensieve zorg voor een naaste",
+				"key2": "jet isarin",
+				"cnt": "1",
+				"value": "14AC0A8194F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Jet-Isarin/Mantelzorg-in-een-ontmantelde-prive-sfeer/Boek/?itemid=%7coba-catalogus%7c238311",
+			"titles": [
+				"Mantelzorg in een ontmantelde privé-sfeer : over het combineren van betaalde arbeid en de langdurige en intensieve zorg voor een naaste",
+				"Mantelzorg in een ontmantelde privé-sfeer : over het combineren van betaalde arbeid en de langdurige en intensieve zorg voor een naaste / Jet Isarin ; projectleiding: Dick Willems"
+			],
+			"isbn": ["9055736090"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=273308637&isbn=9789055736096&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/273308637&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Jet Isarin", "Dick Willems"],
+			"authorsDetailed": [
+				{
+					"full": "Jet Isarin",
+					"firstname": "Jet",
+					"lastname": "Isarin",
+					"creatortype": "person"
+				},
+				{
+					"full": "Dick Willems",
+					"lastname": "Dick Willems",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2005",
+			"year": "2005",
+			"publisher": ["DAMON, Budel, cop. 2005"],
+			"subject-topical": ["Werkbelasting", "Mantelzorg", "Onderzoek"],
+			"languages": ["Nederlands"],
+			"description": ["176 p., [1] vouwbl", "176 p., [1] vouwbl ; 24 cm"],
+			"note": "Met lit. opg",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "mantelzorg in een ontmantelde prive sfeer over het combineren van betaalde arbeid en de langdurige en intensieve zorg voor een naaste",
+						"key2": "jet isarin",
+						"cnt": "1",
+						"value": "14AC0A8194F360A0"
+					}
+				]
+			},
+			"siso": ["613.8"]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_16372526",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Wat-is-belasting/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_16372526",
+			"titles": ["Wat is belasting?"],
+			"coverimages": ["https://images.poms.omroep.nl/image/1516755.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["belasting", "geld"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Huh? Belasting? Wat is dat? Stel, je hebt een goedlopend bedrijf en daarmee verdien je prima. Maar dan blijkt dat je niet al het geld zelf mag houden, want je moet belasting betalen. Belasting is het geld wat volwassenen en bedrijven moeten betalen aan hun land. Als je geld verdient met je werk, dan moet je belasting betalen. Maar ook als je iets koopt in de winkel. Hoeveel dat is, staat op de kassabon. Al het belastinggeld gaat in een potje en daar worden dingen van betaald die het land nodig heeft. Dankzij belastinggeld kan iedereen naar school en naar het ziekenhuis, is er politie en wordt het vuilnis opgehaald. En als je niet kan werken kom je niet om van de honger. Dus iedereen profiteert van belastingen. In Nederland betalen de rijken meer belasting dan mensen met minder geld. Bijna iedereen vindt dat ie te veel betaalt. Je kan belasting ontduiken. Dan werk je stiekem of je verhuist naar een land met lagere belastingen. Zo hou je je geld lekker voor jezelf. Klinkt slim, maar als niemand belasting betaalde, dan was dit er ook niet geweest. En hoe moet je dan de spullen vanuit je fabriek naar de winkels brengen?"
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_425849",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Clipphanger/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_425849",
+			"titles": ["Clipphanger"],
+			"coverimages": ["https://images.poms.omroep.nl/image/238967.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["geld", "betalen", "belasting", "geschiedenis"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Belasting is letterlijk zo oud als de weg naar Rome. Al in het jaar 50 werden onze eigen Friezen verplicht om te betalen aan het Romeinse gezag. Maar dat waren toen nog geen flappen, maar lappen: runderhuiden, waarmee de Romeinen lekker warm de winter doorkwamen.\nRond het jaar 500 hadden de Franken de macht. De Koning der Franken ging het hele jaar van je ras ras ras door zijn eigen uitgestrekte rijk. Het volk betaalde hem belasting in natura. De king kreeg zijn natje en zijn droogje, en misschien nog een natje of twee.\nVanaf de elfde eeuw kwam het recht om belasting te heffen in handen van de stadsbesturen. Die gebruikten het geïnde geld om de stadsmuur te onderhouden, ambtenaren te betalen en tomaten te kopen om de belastingontduikers mee te bekogelen. \nOnze eerste echte Minister van financiën heette Alexander Gogel. Die goocheme Gogel toverde in 1806 uit zijn hoge hoed de Belastingdienst tevoorschijn. Tegenwoordig verstuurt deze dienst per jaar zo’n 160 miljoen blauwe enveloppen. Misschien zou daar ook ’s een belasting op moeten komen."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_2626185",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Tegenlicht-in-de-klas/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_2626185",
+			"titles": ["Tegenlicht in de klas"],
+			"coverimages": ["https://images.poms.omroep.nl/image/679828.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["belasting", "financiën", "overheidsfinanciën"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Vak: economie. Niet alleen gewone burgers betalen belasting. Ook grote bedrijven moeten dat doen. Maar terwijl de belastingdruk op burgers en midden en kleine bedrijven alsmaar toeneemt lijken de belastingen voor multinationals omlaag te gaan. Hoe en waar betalen de grote internationale bedrijven eigenlijk hun belasting? De vraag is simpel maar het antwoord een stuk lastiger. De multinationals hebben slimme manieren gevonden om hun belastingplicht te omzeilen. En ook Nederland heeft hier mee te maken."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/VPWON_1289142",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Het-Klokhuis/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fVPWON_1289142",
+			"titles": ["Het Klokhuis"],
+			"coverimages": ["https://images.poms.omroep.nl/image/1201352.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["belasting", "geld"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Als er geen belasting betaald zou worden, zouden er heel veel dingen niet zijn, zoals fietspaden en stoplichten. Maar ook ziekenhuizen, scholen en zelfs Het Klokhuis worden betaald van belastinggeld. Iedereen met een inkomen betaalt daaraan mee. Hoe meer je verdient, hoe meer belasting je betaalt. Janouk zoekt uit hoe wordt bepaald waar het belastinggeld aan uitgegeven wordt. Bert en Joke vertellen in de hobbyquiz dat ze heel graag belasting betalen."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_662734",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Wat-zijn-accijnzen/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_662734",
+			"titles": ["Wat zijn accijnzen?"],
+			"coverimages": ["https://images.poms.omroep.nl/image/536875.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["belasting", "accijns", "geld", "product"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Zo, nou ik heb mijn boodschappen gedaan voor vanavond. Lekker wat groente erbij, een sapje. Ik heb mijn buurman beloofd een fles jenever mee te nemen en wat sigaretten. Nou ik ben benieuwd hoeveel het kost. Zo, dat is veel. Nou ben ik wel benieuwd hoeveel accijnzen ik heb betaald over deze producten. \nBelasting betaal je aan de overheid. Belastinggeld wordt bijvoorbeeld gebruikt om te zorgen dat er scholen en ziekenhuizen zijn. Koop je een spijkerbroek, dan betaal je ook belasting. Voor sommige producten vraagt de overheid extra belasting. De overheid wil op die manier het gebruik van die producten afremmen. Omdat ze slecht zijn voor je gezondheid bijvoorbeeld alcohol en tabak of omdat ze slecht zijn voor het milieu zoals benzine. Die belasting maakt de producten duurder dan ze eigenlijk zijn. Het geld wat je extra betaalt is een belasting, die speciale belasting noem je accijns.\nHoi ik ben Augusto.\nHoi, Tom. Je hebt boodschappen bij je.\nJa. Het zit namelijk zo. Ik heb gehoord dat er in supermarkten producten liggen waarover accijns wordt geheven en ik wil weten hoe dat zit. Accijns is een soort belasting toch?\nJa. Op alles wat je koopt zit eigenlijk wel een soort belasting. Van wat jij betaalt aan een spijkerbroek gaat ongeveer 1/6 naar de overheid. Voor een brood is dat ongeveer 1/20. Daarnaast zijn er een aantal speciale producten waarop de regering nog een extra belasting legt: accijns. \nEn wat zijn die speciale producten?\nAccijns was altijd een belasting op luxe producten. Vroeger was dat bijvoorbeeld wijn, maar ook suiker, koffie, thee. Tegenwoordig is het vooral een belasting op producten die slecht zijn voor jou of slecht zijn voor het milieu. Zoals benzine, sigaretten en ook nog steeds wijn. \nMaar waarom doet de overheid dat dan?\nAccijnzen heffen we, net als alle belastingen, voor de opbrengst van de schatkist. Alle dingen die mensen nodig hebben maar je niet zelf kunt kopen, bijvoorbeeld de snelweg of de politie, die koopt de overheid en dat kost veel belastinggeld. Daarnaast zou het goed zijn dat jongeren door de prijs van sigaretten minder snel gaan roken, want dat is heel slecht voor je. \nElke keer als je bepaalde producten koopt, betaal je accijnzen. Producten waarover je accijnzen betaalt zijn bijvoorbeeld alcoholische dranken, sigaretten en benzine. Dus producten die slecht zijn voor het milieu of slecht voor je gezondheid. Deze producten zouden bijvoorbeeld zonder accijnzen 15 euro kosten, maar met accijnzen zou het ongeveer 30 euro kosten. De overheid maakt deze producten dus een flink stuk duurder.\nIk zie dat jij frisdrank hebt gekocht. Wist je dat je daar accijnzen over betaalt?\nJa, dat weet iedereen toch?\nWaarvoor moet je dat betalen? \nWat het precies inhoudt weet ik niet, maar wel dat het naar de belasting gaat.\nWat hebben jullie precies gekocht? \n2 blikjes energie drank.\nWist je dat je daarover accijnzen betaalt?\nAccijns? Nee dat wist ik niet. Ik wist wel de btw maar accijns wist ik niet.\nWat denk jij dat de overheid met al dat geld doet?\nUitgeven. Dingen bouwen.\nIk heb een vraagje. Wat heb jij zojuist gekocht?\nWat eten, wat drinken. Wil je het precies weten?\nNee, wist je dat je over de dingen die je in de supermarkt koopt, accijns betaalt? \nJa.\nWat vind je ervan?\nHoort erbij. Ik denk er niet zoveel over na.\nTom. Nou heb ik boodschappen gehaald, nu ben ik wel benieuwd over welk product ik accijnzen betaal. Wil je voor me kijken?\nNou laten we eens kijken. Vruchtensap. Daar zitten ook accijnzen op. \nVruchtensap? Maar dat is toch heel erg gezond? \nDaar gaat het niet om de gezondheid maar meer om de opbrengst. Toch moet je voorzichtig zijn met het drinken van zoete drankjes. Zeker als er bubbels in zitten. Slecht voor je tanden en zitten er veel calorieën in. \nOké, je hebt gelijk. Wat zit er nog meer in waarover accijns wordt betaald?\nSigaretten. Op een pakje sigaretten zit ongeveer 3 euro accijns. \nZo dat is ook veel. Zo'n pakje kost 5 euro.\nEr zit veel belasting op een pakje. \nEn over welke producten betaal ik nou de meeste accijns?\nOp een liter benzine zit ongeveer een euro. Maar er gaat natuurlijk wel 40 liter in je tank dus dan betaal je wel 40 euro accijns. Op een flesje whisky 6,60 euro. \nWat doet de overheid met al dat geld?\nDe opbrengst van de accijns gaat in een hele grote pot. De accijns leveren ongeveer 11 miljard euro op. Dat gaat in een hele grote pot. De pot is samen ongeveer 250 miljard euro. Een deel gaat bijvoorbeeld naar de zorg (volksgezondheid) en ook naar onderwijs, cultuur en wetenschap: 33,6 miljard. Het basisonderwijs kost ongeveer 10 miljard euro en het beroepsonderwijs ongeveer 3,5 miljard euro.\nMijn schoolboeken worden dus ook betaald uit dat geld? \nEn de leraren.\nDus wijn, bier en sigaretten zijn slecht voor je gezondheid en benzine slecht voor het milieu. Daarom heft de overheid accijnzen over deze producten. Accijns is een soort gebruikersbelasting en dan weet ik het wel voortaan. Ik denk 2 keer na voordat ik iets in mijn winkelkarretje stop. Weet je wat? Dit colaatje drink ik gewoon."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_2966576",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/De-Rekenkamer-in-de-klas/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_2966576",
+			"titles": ["De Rekenkamer in de klas"],
+			"coverimages": ["https://images.poms.omroep.nl/image/695057.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["roken", "sigaret", "belasting"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Vak: economie. Roken is slecht voor je gezondheid. Dat is alom bekend. Maar hoewel sigaretten steeds duurder worden, zijn er nog steeds miljoenen Nederlanders die blijven roken. Rokers kosten de samenleving veel geld, denk maar aan de kosten voor de gezondheidszorg. Maar rokers leveren ook geld op omdat ze extra belasting betalen over sigaretten, accijns. De Rekenkamer weegt de kosten en baten tegen elkaar af en komt tot een verrassende conclusie."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_16475038",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/EenVandaag-in-de-klas/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_16475038",
+			"titles": ["EenVandaag in de klas "],
+			"coverimages": ["https://images.poms.omroep.nl/image/1556906.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["geld", "schuld", "schuldsanering", "belasting"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Bij economie krijg je les over bruto, netto en de winstbalans. Maar hoe je je verzekeringspremie betaalt of welke belastingen je kunt verwachten als je 18 wordt, dat leer je niet. Volgens sommigen is dat wel nodig, om later schulden te voorkomen."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426620",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Accijnzen/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426620",
+			"titles": ["Accijnzen"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239755.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["product", "belasting", "economie"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Elke keer als je een bepaald product koopt betaal je accijnzen. Producten waarover je accijnzen betaalt  zijn bij voorbeeld alcoholische dranken, sigaretten en benzine. Dus producten die slecht zijn voor het milieu of die slecht zijn voor je gezondheid. Deze producten zouden zonder accijnzen zo'n 15 euro kosten. Maar met accijnzen zou het ongeveer 30 euro kosten. De overheid maakt deze producten dus een flink stuk duurder."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426787",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/De-Belastingdienst/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426787",
+			"titles": ["De Belastingdienst"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239931.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["economie", "belasting"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Een inspecteur die kijkt bijvoorbeeld aangiftes na die binnenkomen. Zo kijkt hij wat de mensen hebben ingevuld en of het klopt met de gegevens die we hebben en of het logisch is wat ze invullen. En als je denkt van: “goh, daar zitten dingen die ik niet helemaal kan plaatsen”, dan kun je een brief sturen naar die mensen of je kunt ze bellen, dan kun je een toelichting vragen. En als dan alles klopt uiteindelijk, dan kun je de aangifte volgen zoals ze hem hebben ingegeven en soms zijn er ook vragen van mensen, dus die zijn dan niet helemaal zeker van de regels die opgeschreven staan en dan willen ze weten “klopt het als ik ziektekosten heb, dat ik die bijvoorbeeld mag invullen?”. \nPer jaar komen van particulieren, de mensen zelf, bijna 10 miljoen aangiftes binnen. We hebben het natuurlijk wel druk rond de aangifteperiode, maar niet alleen met de aangiftes, maar ook heel veel met de vragen die de mensen stellen, want je merkt toch wel, dat mensen dan heel erg bezig zijn met het onderwerp en toch wel graag willen weten wat of ze het goed doen en of wat ze willen invullen of dat dan ook klopt. Maar behalve de particulieren, dus de mensen zelf, hebben we ook nog te maken met bedrijven en op het moment als er mensen het toch niet helemaal eens met wat er gebeurt kan het zijn, dat er bezwaren worden gemaakt. \nNou, dat loopt allemaal in de rest van het jaar door. En soms zijn er bijvoorbeeld moeilijkere dingen als ziektekosten, dat kan dan ingewikkeld zijn. Ja, dan kan het zijn, dat iemand daar een foutje in maakt, dat hij toch misschien net kosten heeft opgevoerd waarvan we zeiden “ja, dat was niet de bedoeling”, dat kan gebeuren ja. Nou, als er iets misgaat en het is echt expres gedaan, dus niet als een foutje of niet als per ongeluk iets niet gezien hebben, dan kan het zijn, dat er boetes worden gegeven. Het kan zo zijn, dat een boete eigenlijk niet meer genoeg is, dan is het echt zó verschrikkelijk uit de hand gelopen. Dan hebben mensen echt voor veel geld, maar ook dat ze echt wisten dat het niet kon het belastinggeld niet betaald, terwijl we dat toch eigenlijk allemaal gewoon moeten doen. Ja, en dan, als we echt weten van “dat is aan de hand”, dan kunnen we ook nog via het Openbaar Ministerie, dat is eigenlijk Justitie, kan zo’n zaak voor de strafrechter komen."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426768",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Fraude-inspectie/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426768",
+			"titles": ["Fraude-inspectie"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239912.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["economie", "uitkering", "fraude", "belasting"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Sommige mensen hebben ten onrechte een uitkering. Als ze dat bij het UWV vermoeden, dan sturen ze daar een fraude-inspecteur op af.\nNou, ik werk bij de Directie Handhaving en die directie houdt zich bezig met de controles. Controles bij onze klanten en wat wij doen is in de meeste gevallen heel saai, want wij vergelijken gegevens van onze klanten met de gegevens van andere diensten, bijvoorbeeld de Belastingsdienst of de Sociale Dienst. En daar komen dan signalen uit naar voren dat er mogelijk iets niet in orde is. Nou, dan zie je bijvoorbeeld dat mensen opgeven aan de Belastingdienst dat ze aan het werk zijn en terwijl ze een uitkering hebben niet aan ons opgeven dat ze aan het werk zijn, en dat is voor ons aanleiding om er eens nader naar te kijken. \nWij maken ook van al onze klanten een risicoprofiel. Waar het in feite om gaat is, dat wij een aantal kenmerken verzamelen van klanten die in het verleden de regels overtreden hebben. En dan moet je denken aan hele gewone dingen als man of vrouw, leeftijd, beroep waarin iemand gewerkt heeft, of iemand eerder een uitkering heeft gehad"
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426710",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/De-Rijksbegroting/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426710",
+			"titles": ["De Rijksbegroting"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239851.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["Rijksbegroting", "economie", "overheid"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Als je een begroting maakt schrijf je op hoeveel geld je binnenkrijgt en hoeveel geld je wilt uitgeven. Ieder jaar op Prinsjesdag presenteert de Regering de Rijksbegroting en de Miljoenennota. In de Rijksbegroting staat wat de geschatte inkomsten en uitgaven zijn. Zo kunnen de inkomsten over een jaar wel 235 miljard Euro zijn, maar de uitgaven bijvoorbeeld 250 miljard. De Regering moet dan gaan bezuinigen of gaan lenen. \nDe belangrijkste inkomsten van de Nederlandse Overheid zijn belastingen. Als je geld verdient, betaal je loon- en inkomstenbelasting. Als je iets koopt, bijvoorbeeld een blikje Cola of een spijkerbroek, betaal je belasting in de vorm van BTW. Als je sigaretten, alcohol of benzine koopt, betaal je extra voor de accijns. Dat is ook belasting en die gaat ook naar de Schatkist. En mensen die een motor of een auto hebben betalen motorrijtuigenbelasting. De Overheid verdient ook aan onder andere verkeersboetes en met de verkoop van aardgas aan het buitenland. De Overheid betaalt bijna alles met het belastinggeld.\nDe belasting die we betalen wordt gecontroleerd door belastinginspecteurs. Ze verwerken zo’n 60 miljoen aangiften per jaar. Je kunt je dan voorstellen, dat er in sommige aangiften fouten staan. Echte vergissingen, echte fouten. Maar soms wordt er bewust verkeerde informatie gegeven. Sommige mensen proberen de belasting te ontduiken. Een belastinginspecteur controleert de aangiftes. Als iemand minder inkomsten opgeeft dan hij heeft binnengekregen, betaalt hij minder belasting dan zou moeten."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_663187",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/De-Sint-Elisabethsvloed/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_663187",
+			"titles": ["De Sint Elisabethsvloed"],
+			"coverimages": ["https://images.poms.omroep.nl/image/537349.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["rivier", "Nederland", "overstroming", "handel"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Een overstroming vindt in Nederland niet zomaar plaats: er moet echt flink wat aan de hand zijn voor het zover is. Bijvoorbeeld bij een combinatie van een hele zware Noordwesterstorm, extreem hoog water op zee en extreem hoog water in de rivieren. Als die omstandigheden tegelijkertijd voorkomen, dan kan er een overstroming plaatsvinden. \nEn dat is precies wat er gebeurt in 1421 in Zuid-Holland. Dan vindt er een legendarische overstroming plaats: de St Elisabethsvloed. In de stad Dordrecht kennen ze die overstroming nog steeds. Deze overstroming is zo groot dat het hele land rondom Dordrecht onder water loopt. En dat is een grote strop, want Dordrecht was in die tijd een rijke stad.\nDeborah Paalman, de archeologe van Dordrecht weet wat de gevolgen van de overstroming waren. \nNou heb ik gehoord dat Dordrecht in de 15e eeuw misschien wel de rijkste stad van Nederland was.\nJa, dat zou je kunnen zeggen. Dordrecht kende in de 14e en 15e eeuw, de gouden eeuw, ietsje eerder dan Amsterdam. En die status kregen ze eigenlijk vanwege de handel. Het was een hele rijke handelsstad, iedereen bracht hier z’n goederen op de markt, die uit het buitenland kwam, dus die stad kon zich enorm ontwikkelen.\nDe overstroming verandert alles. Dordrecht ligt ineens als een soort eilandje middenin een enorme waterplas. Schepen kunnen gemakkelijk aan alle kanten om de stad heen varen. Terwijl voor de overstroming juist alle handelsschepen aanmeerden in Dordrecht. Daar is de stad zo rijk van geworden. Want alle handel van de schepen moest eerst op de markt in Dordrecht worden aangeboden. Dit heet stapelrecht. \nDordrecht had al sinds 1299 het stapelrecht van de graaf van Holland gekregen, dat hield in dat iedereen die vanuit het buitenland met z’n goederen hier langs Dordrecht kwam, eerst de goederen hier uit moest pakken, uit z’n boot. Eerst hier op de markt brengen, je moest tol betalen, je moet belasting betalen voordat je door kon varen naar je eigenlijke bestemming. Dus dat was een heel gedoe en als dat niet meer hoefde, en vooral ook niet al die belasting betalen, dan ging je natuurlijk gewoon om Dordrecht heen.\nDus de echte ramp kwam pas enkele jaren daarna, die was eigenlijk economisch.\nDordrecht verliest zo in korte tijd haar handel en rijkdom. Steden als Amsterdam en Antwerpen zien hun kans schoon en nemen de handel over. \nDordrecht wordt nooit meer zo rijk als voor de St Elisabethsvloed."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426267",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Naar-de-markt-in-de-Middeleeuwen/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426267",
+			"titles": ["Naar de markt in de Middeleeuwen"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239407.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["platteland", "Middeleeuwen", "Nederland", "stad"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"In de Middeleeuwen ontstonden de eerste steden. We gaan terug in de tijd van steden en staten. Op dit tijdlint kun je zien hoe ver terug: 600 jaar. Elk blokje is 100 jaar, dus we gaan 6 eeuwen terug in de tijd waarin boerenjongen Alwin voor het eerst met zijn vader mee mag naar de markt. En als hij Jacob ontmoet, dan merkt hij dat het leven in de stad heel anders is dan het leven op het platteland.\n\nVoor de eerste keer naar de stad! Alwin, vind je het spannend?\nNee hoor, helemaal niet.\nNee, helemaal niet. Nou, hè, hop met die, we gaan. We kunnen vandaag zeker een Shilling verdienen Alwin.\nJa, een Shilling.\nWant een Shilling is net zoveel als hoeveel ook alweer?\nEh, ja, hoeveel ook alweer?\n5 stuivers. In de stad Alwin zie je dingen die je nog nooit eerder hebt gezien of gehoord. Overal mensen, rijke mensen, arme mensen zoals wij, maar ook mensen waarvoor je op moet passen. In de stad Alwin zijn veel dieven. Alwin!\nVader, ik luister wel.\nDus ik zou die toon van jou maar goed in de gaten houden als ik jou was! En dan gaan we vandaag ook verkopen. Hé Felix, alles goed mijn jong? Ja? Goed kopen vandaag? Kom op! Kom op Alwin. Laten we eens kieken wat we vandaag weer kunnen verkopen hè. Zo. Hoppakkee. Zo. Lekkere wortels. Hé, ik heb u niet voor niets meegenomen hè jongen. Help eens met die kar leegtrekken. Zo. En als u vandaag een beetje uw best doet met dingen verkopen, bewaar ik straks voor u uw favoriete knol. Hè? Dat is wat hè? Tot straks hè. Kom op, weg de kar.\n\nKan ik u helpen? Okay, een pastinaak en een ui.\nLaat mij maar hè. Hè, snuggere. Hij is mooi, maar niet…\nSnugger? Je bent zelf een snuggere!\nWaarmee kan ik u helpen?\n\nDat is een mooie tol.\nAlwin, zoon van Alfred.\nJacob, de zoon van Klaas, de timmerman. Zeker voor het eerst in de stad? Heeft je vader je niet verteld over de tolpenningen?\nTolpenningen?\nJazeker, en die kost toch zeker 2 stuivers.\nNatuurlijk, ik ben niet dom!\nAls je me niet gelooft, hier is de kreet van de Bisschop. Je kan toch wel lezen? Jij bent de eerste boerenjongen die ik hier tegenkom die kan lezen. Kijk: hier staat het: 2 stuivers.\n\nHoeveel meiten is dat?\nAlwin, vriend van het platteland, ik wil je alleen maar helpen. Als iemand je ziet met die tol, moet je 96 meiten betalen, heb je die? Nou, je vader kan die mij natuurlijk ook betalen. Niet? Hé, dat kan gerust een duur grapje worden. Ik zou misschien… Nee, nee, beter van niet.\nWat?\nIk zou je kunnen helpen, alleen ja, dat is tegen de regels dus.\nZeg, mijn vader kan geen 96 meiten betalen.\nKijk: ik ben bij mijn vader in de leer als timmerman. Ik zou jouw tol mee kunnen nemen naar mijn vaders werkplaats en dan hang ik een penning precies hierboven op. Als je hier blijft, dan weet ik je te vinden. Ik ben terug voordat de klok middag slaat.\n\nIk stuur je de stad in met een belangrijk document. En je bent langer weg dan een kip erover doet om een dozijn eieren uit te broeden en als ik dan je luie donder opzoek, dan ben je aan het spelen met een tol in de kloostertuin!\nDie tol heb ik gevonden.\nDie tol heb je gevonden? Haha!\nHet is mijn tol meneer.\nVader, als we iedere boerenpummel hier moeten geloven…\nHoe kom jij daaraan jongeman?\nDie heb ik van belasting op tollen.\nBelasting op tollen? Jou pak ik later wel aan! Ga zitten. Nou Jacob, lapzwans, bedien onze klant, geef hem een bord balkenbrij.\nBalkenbrij.\nJa.\nBalkenbrij!\nLekker.\nDat zal je thuis niet zo vaak krijgen hè op de boerderij.\nIk moet gaan, bedankt voor de balkenbrij!\n\nAlwin, oh jongen, waar ben je geweest, ik was vreselijk ongerust! Hé, wat is er gebeurd?\nIk was een heel klein beetje verdwaald.\nVerdwaald hè? Jij zult wel vreselijke honger hebben hè, kiek eens: ik heb jouw favoriete knol bewaard! Hè. Alwin, Alwin.\nStom! Stom! Stom!\nSnuggere!"
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_426697",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Wajong/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_426697",
+			"titles": ["Wajong"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239835.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["wajong", "economie", "uitkering"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"In ons sociale zekerheidsstelsel is geregeld dat niemand onder een sociaal minimum hoeft te leven. Voor elke leeftijdsgroep en voor elke situatie zijn daarom regelingen getroffen. Er zijn sociale verzekeringen. Sociale verzekeringen zijn verzekeringen in de letterlijke zin van het woord. Mensen betalen premie om zich te verzekeren tegen een bepaald risico. Bijvoorbeeld tegen het verlies van inkomen bij ziekte.\nEn er zijn sociale voorzieningen. Iedereen die geld verdient betaalt belasting. Een deel van die belasting gebruikt de Overheid om de sociale voorzieningen te betalen. Zo wordt de Wajong-uitkering betaald uit de pot Sociale Voorzieningen.\nAls mensen niet of moeilijk kunnen werken, kunnen ze aanspraak maken op een uitkering. Als je vanaf jonge leeftijd een geestelijke of lichamelijke handicap hebt, kun je vanaf je 18de een Wajong-uitkering krijgen. Je krijgt dan meestal een aanvullende uitkering op het salaris dat je nog wel kunt verdienen.\nToen ik hier kwam solliciteren in 2009 ben ik heel open geweest, ik heb ze verteld dat ik de Ziekte van Crohn heb en wat daar de nadelen van zijn. Ik ben gelukkig desondanks toch aangenomen. Dus ik kon heel open zijn naar mijn manager toe van: “nou, ik ben een Wajong-uitkering aan het aanvragen”, ik heb haar uitgelegd wat de voordelen daarvan zijn. Dus ze was er ook voor mij heel blij om, dus het enige wat zij had is: “ik hoop, dat het lukt, dat het voor jou kan”. \nDe Ziekte van Crohn is een chronische darmziekte. De goede bacteriën worden aangevallen in plaats van de slechte waardoor je ontstekingen krijgt. Ik werk nu twee dagen in de week en ik heb dat zo geregeld dat het niet twee dagen achter elkaar zijn, dus ik kan de dag erna kan ik bijkomen. En ik moet ook echt op mijn vrije dagen ga ik ’s middags even een paar uurtjes op bed liggen. Er is voor mij besloten, dat ik per week 20 uur kan werken, dus dat zal ik zelf moeten verdienen en de rest wordt aangevuld tot 80%. \nOp het moment dat ik de Wajong kreeg was het ook even voor mij slikken, want het is toch alweer meer het besef van: “ja, ik heb een chronische ziekte en ja, ik zit er de rest van mijn leven aan vast”. En zoiets als de Wajong, hoe raar het ook klinkt, dat maakt dat heel definitief. Je wilt natuurlijk eigenlijk niet op 24-jarige leeftijd zeggen: “ik krijg een uitkering”. Maar aan de andere kant financieel gezien geeft het heel veel rust natuurlijk met het extraatje wat ik nu krijg. Ik hoef me niet druk te maken over dat ik meer moet gaan werken om meer te verdienen. En daarnaast is het voor mij heel prettig, dat als je een Wajong hebt en je wordt ziekt, dan wordt het inval betaald door het UWV, of mijn ziektedagen, het is net hoe je dat wil bekijken, waardoor ik makkelijker zeg van: “nou, ik ben ziek”, want daar heb ik altijd heel veel moeite mee gehad, ik ging maar door en ik ging maar door, waardoor ik ook uiteindelijk heel erg ziek ben geworden. Dus dat maakt het wel makkelijker, ja, absoluut."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_425985",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Politieke-partijen/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_425985",
+			"titles": ["Politieke partijen"],
+			"coverimages": ["https://images.poms.omroep.nl/image/239111.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["Tweede Kamer", "regering", "politieke partij"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Er is in Nederland een aantal politieke partijen. Een politieke partij is een groep mensen die dezelfde ideeën hebben. Een partij wil bijvoorbeeld dat er meer bomen komen. Een andere partij wil juist dat er meer straten komen en vindt de bomen niet zo belangrijk.\nDe partijen worden vaak verdeeld in Links en Rechts.\n\nRechtse partijen willen meestal minder regels. Ze vinden dat de mensen best voor zichzelf kunnen zorgen, en een beetje voor elkaar. Zelf een ziekenhuis bouwen, of de weg naar het ziekenhuis toe. Als de mensen dat zelf doen, dan kost het geen belastinggeld, en hoeven de mensen dus minder belasting te betalen.\n\nDe Linkse partijen willen meestal meer regels. Mensen mogen elkaar best helpen, maar als ze dat niet doen, dan helpt de overheid wel een handje. En de overheid bouwt het ziekenhuis en de weg ernaartoe. Om dat allemaal te kunnen betalen, moeten de belastingen wel wat hoger zijn.\n\nLinks, rechts, of daar ergens tussenin: alle partijen hebben een verkiezingsprogramma. Dat is geen leuk televisieprogramma, maar een stapel papier. In het verkiezingsprogramma staan alle mooie plannen opgeschreven."
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|schooltv|/NTR/POMS/WO_NTR_16508702",
+			"frabl": {
+				"key1": "",
+				"key2": "",
+				"cnt": "",
+				"value": ""
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/De-tiende-penning-van-Alva/Schooltv/?itemid=%7cschooltv%7c%2fNTR%2fPOMS%2fWO_NTR_16508702",
+			"titles": ["De tiende penning van Alva"],
+			"coverimages": ["https://images.poms.omroep.nl/image/1569564.jpg"],
+			"formats": [
+				{
+					"text": "Schooltv",
+					"icon": "/assets/resources/img/mat/movie.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"subject-topical": ["Tachtigjarige Oorlog", "opstand"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Ik vind het geweldig om iets aan de Spaanse koning terug te geven. Hij heeft ons zoveel gegeven. Daarom betaal ik graag en zonder morren belasting. Het is voor Spanje, voor Alva en tegen de ketters. Hartstikke goed! Belasting is fantastisch. Nu is er een nieuwe belasting: De tiende penning van Alva. Tien procent op de verkoop van eten, drinken. Alles wat je kunt bedenken. Dat is tien procent op de verkoop van koeien en paarden. Geweldig! Precies! Daar mag je tien procent over betalen voor het goede doel. Dus door bier te drinken steunen we de koning van Spanje! En Alva, tegen de ketters! Wij zijn gek op bier en op Spanje! Daar gaat-ie. Op Alva! De tiende penning: Leuker kunnen we het niet maken, wel makkelijker. Proost!"
+			],
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "",
+						"key2": "",
+						"cnt": "",
+						"value": ""
+					}
+				]
+			},
+			"eresources": ["", ""]
+		},
+		{
+			"id": "|oba-catalogus|1160586",
+			"frabl": {
+				"key1": "de panama papers waar gaan ze echt over",
+				"key2": "victor broers",
+				"cnt": "1",
+				"value": "45BF82D127F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Victor-Broers/De-Panama-Papers-waar-gaan-ze-echt-over/Boek/?itemid=%7coba-catalogus%7c1160586",
+			"titles": [
+				"De Panama Papers : waar gaan ze echt over?",
+				"De Panama Papers : waar gaan ze echt over? / Victor Broers"
+			],
+			"isbn": ["=9789021404271"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=403981131&isbn=9789021404271&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/403981131&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Victor Broers"],
+			"authorsDetailed": [
+				{
+					"full": "Victor Broers",
+					"firstname": "Victor",
+					"lastname": "Broers",
+					"localized-type": "Auteur",
+					"creatortype": "person"
+				}
+			],
+			"year": "2016",
+			"year": "2016",
+			"publisher": ["Q, Amsterdam, [2016]"],
+			"subject-topical": ["Panama Papers", "Belastingvlucht"],
+			"languages": ["Nederlands"],
+			"summaries": [
+				"Overzicht van de gecompliceerde internationale financiele constructies die bedrijven en vermogende particulieren in staat stellen geen tot amper belasting te betalen."
+			],
+			"description": ["112 pagina's", "112 pagina's ; 20 cm"],
+			"note": "Met literatuuropgave",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "de panama papers waar gaan ze echt over",
+						"key2": "victor broers",
+						"cnt": "1",
+						"value": "45BF82D127F360A0"
+					}
+				]
+			},
+			"siso": ["346.2"]
+		},
+		{
+			"id": "|oba-catalogus|1138910",
+			"frabl": {
+				"key1": "walden de plicht tot burgerlijke ongehoorzaamheid",
+				"key2": "henry david thoreau",
+				"cnt": "1",
+				"value": "53480F0EB3F360A0"
+			},
+			"detailLink": "http://zoeken.oba.nl/detail/Henry-David-Thoreau/Walden-De-plicht-tot-burgerlijke/Boek/?itemid=%7coba-catalogus%7c1138910",
+			"titles": [
+				"Walden & De plicht tot burgerlijke ongehoorzaamheid",
+				"Walden & De plicht tot burgerlijke ongehoorzaamheid / Henry David Thoreau"
+			],
+			"isbn": ["=9789085426172"],
+			"coverimages": [
+				"https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=394099672&isbn=9789085426172&lid=&aut=&ti=&size=70",
+				"https://v112.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/394099672&token=c1322402"
+			],
+			"formats": [
+				{
+					"text": "Boek",
+					"icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20220316.235546"
+				}
+			],
+			"authors": ["Henry David Thoreau", "Anton Haakman"],
+			"authorsDetailed": [
+				{
+					"full": "Henry David Thoreau",
+					"firstname": "Henry David",
+					"lastname": "Thoreau",
+					"localized-type": "Auteur",
+					"creatortype": "person"
+				},
+				{
+					"full": "Anton Haakman",
+					"lastname": "Anton Haakman",
+					"localized-type": "Vertaler",
+					"creatortype": "organization"
+				}
+			],
+			"year": "2015",
+			"year": "2015",
+			"publisher": ["De Bezige Bij, Amsterdam, 2015"],
+			"subject-topical": ["Utopisme", "Burgerlijke ongehoorzaamheid"],
+			"languages": ["Nederlands", "Engels"],
+			"summaries": [
+				"Pleidooi voor een terugkeer naar de essentie van het bestaan en een ascetische levenswijze, gevolgd door een essay over het niet betalen van belasting als protest tegen een immoreel regeringsbeleid."
+			],
+			"description": ["409 pagina's", "409 pagina's ; 23 cm"],
+			"note": "Vertaling van: Walden. - 1854 en: On the duty of civil disobedience. - 1849",
+			"undup": {
+				"alsoAvailableAsCount": "0",
+				"items": [
+					{
+						"key1": "walden de plicht tot burgerlijke ongehoorzaamheid",
+						"key2": "henry david thoreau",
+						"cnt": "1",
+						"value": "53480F0EB3F360A0"
+					}
+				]
+			},
+			"siso": ["331.59"]
+		}
 	]
 }

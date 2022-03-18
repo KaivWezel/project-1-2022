@@ -41,7 +41,7 @@ export const loadBooks = async (target) => {
 		const card = bookCard(book);
 		Render(card, strategy);
 	});
-	data.books.forEach((book) => {
+	data.taxes.forEach((book) => {
 		const card = bookCard(book);
 		Render(card, taxes);
 	});
@@ -51,9 +51,11 @@ export const loadBooks = async (target) => {
 	});
 };
 
-export const searchResults = async () => {
+export const searchResults = async (query) => {
 	const resultsList = document.querySelector(".searchResults");
-	const data = await getData(resultsUrl);
+	resultsList.innerHTML = "";
+	const url = resultsUrl;
+	const data = await getData(url);
 	data.onderneming.forEach((result) => {
 		const card = resultCard(result);
 		Render(card, resultsList);

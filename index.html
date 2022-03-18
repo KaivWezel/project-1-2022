@@ -23,7 +23,7 @@
 				<form>
 					<label for="navSearch">Leerbronnen</label>
 					<input type="search" id="navSearch" />
-					<button>Search</button>
+					<button type="submit">Search</button>
 				</form>
 			</nav>
 		</header>
@@ -87,9 +87,11 @@
 			</section>
 			<section title="zoeken" id="zoeken">
 				<h2>Zoeken</h2>
-				<input type="search" name="search" id="search" />
-				<label for="search">Wil je iets weten over ondernemen?</label>
-				<button class="submit">Zoeken</button>
+				<form>
+					<label for="search">Wil je iets weten over ondernemen?</label>
+					<input type="search" name="search" id="searchForm" />
+					<button class="submit">Zoeken</button>
+				</form>
 				<div class="searchResults"></div>
 			</section>
 			<section title="Niet gevonden" id="notFound">

@@ -11,7 +11,7 @@ export const bookCard = (data) => {
 	const desc = document.createElement("p");
 	// Assign content to elements
 	link.href = data.detailLink;
-	hero.src = data.coverimages[1];
+	hero.src = data.coverimages[1] ? data.coverimages[1] : data.coverimages[0];
 	title.innerText = data.authors ? data.authors : "Onbekend";
 	desc.innerText = data["subject-topical"]
 		? data["subject-topical"].join(", ")
