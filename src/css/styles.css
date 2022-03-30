@@ -250,11 +250,17 @@ label[for="search"] {
 }
 
 .searchResults article {
-	margin: 2rem;
+	margin: 2rem 3rem;
 }
 
 .searchResults * {
 	text-align: left;
+	color: black;
+}
+
+.searchResults a {
+	display: inline-block;
+	margin: 0.5rem 0;
 }
 
 /* Cursor markup */
